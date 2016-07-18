@@ -1,0 +1,1 @@
+cmd_boards/arduino_101_sss/built-in.o :=  /opt/zephyr-sdk//sysroots/i686-pokysdk-linux/usr/bin/arc-poky-elf/arc-poky-elf-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o boards/arduino_101_sss/built-in.o boards/arduino_101_sss/board.o 

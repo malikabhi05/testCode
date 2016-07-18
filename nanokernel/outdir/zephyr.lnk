@@ -1,0 +1,13 @@
+-nostartfiles -nodefaultlibs -nostdlib -static -Wl,-X -Wl,-N -Wl,--gc-sections -Wl,--build-id=none
+-Wl,-Map=zephyr.map
+-L ./include/generated
+-u _OffsetAbsSyms -u _ConfigAbsSyms
+-e __start
+-Wl,--start-group
+-Wl,--whole-archive
+
+-Wl,--no-whole-archive
+ drivers/built-in.o    ../Zephyr_dev/hello_world/nanokernel/src/built-in.o  lib/built-in.o  kernel/built-in.o  misc/built-in.o  net/built-in.o  boards/built-in.o  arch/built-in.o  ext/built-in.o
+./arch/arc/core/offsets/offsets.o
+-Wl,--end-group
+-L /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em -L /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em  -lm  -lc  -lgcc

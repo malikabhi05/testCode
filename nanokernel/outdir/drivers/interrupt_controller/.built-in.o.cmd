@@ -1,0 +1,1 @@
+cmd_drivers/interrupt_controller/built-in.o :=  /opt/zephyr-sdk//sysroots/i686-pokysdk-linux/usr/bin/arc-poky-elf/arc-poky-elf-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o drivers/interrupt_controller/built-in.o drivers/interrupt_controller/arcv2_irq_unit.o 

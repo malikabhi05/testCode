@@ -1,0 +1,2464 @@
+Archive member included because of file (symbol)
+
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-malloc.o)
+                              ../Zephyr_dev/hello_world/nanokernel/src/built-in.o (malloc)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mallocr.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-malloc.o) (_malloc_r)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memcpy.o)
+                              ext/built-in.o (memcpy)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memset.o)
+                              drivers/built-in.o (memset)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mlock.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mallocr.o) (__malloc_lock)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-printf.o)
+                              ../Zephyr_dev/hello_world/nanokernel/src/built-in.o (printf)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sbrkr.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mallocr.o) (_sbrk_r)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sprintf.o)
+                              ext/built-in.o (sprintf)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-strcmp.o)
+                              kernel/built-in.o (strcmp)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfprintf.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sprintf.o) (_svfprintf_r)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfprintf.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-printf.o) (_vfprintf_r)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wsetup.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfprintf.o) (__swsetup_r)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-dtoa.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfprintf.o) (_dtoa_r)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fflush.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfprintf.o) (_fflush_r)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-findfp.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfprintf.o) (__sinit)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-freer.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-malloc.o) (_free_r)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fwalk.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-findfp.o) (_fwalk)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-impure.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fflush.o) (_global_impure_ptr)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-locale.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfprintf.o) (_localeconv_r)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-makebuf.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wsetup.o) (__smakebuf_r)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memchr.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfprintf.o) (memchr)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mprec.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-dtoa.o) (_Balloc)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reent.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sbrkr.o) (errno)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-s_fpclassify.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfprintf.o) (__fpclassifyd)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-stdio.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-findfp.o) (__sread)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-strlen.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfprintf.o) (strlen)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfiprintf.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfprintf.o) (__ssprint_r)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfiprintf.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfprintf.o) (__sprint_r)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-writer.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-stdio.o) (_write_r)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-callocr.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mprec.o) (_calloc_r)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-closer.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-stdio.o) (_close_r)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fclose.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-findfp.o) (_fclose_r)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fputwc.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfiprintf.o) (_fputwc_r)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fstatr.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-makebuf.o) (_fstat_r)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fvwrite.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfiprintf.o) (__sfvwrite_r)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-isattyr.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-makebuf.o) (_isatty_r)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-lseekr.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-stdio.o) (_lseek_r)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memmove.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfiprintf.o) (memmove)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-readr.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-stdio.o) (_read_r)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reallocr.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfiprintf.o) (_realloc_r)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wbuf.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fputwc.o) (__swbuf_r)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wcrtomb.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fputwc.o) (_wcrtomb_r)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wctomb_r.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wcrtomb.o) (__wctomb)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_mulsi3.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-dtoa.o) (__mulsi3)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_udivsi3.o)
+                              misc/built-in.o (__udivsi3)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_divsi3.o)
+                              ext/built-in.o (__divsi3)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umodsi3.o)
+                              misc/built-in.o (__umodsi3)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_modsi3.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfprintf.o) (__modsi3)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_divmod_tools.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_udivsi3.o) (__udivmodsi4)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_millicodethunk_st.o)
+                              drivers/built-in.o (__st_r13_to_r15)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_millicodethunk_ld.o)
+                              drivers/built-in.o (__ld_r13_to_r15)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_millicodethunk_ret.o)
+                              drivers/built-in.o (__ld_r13_to_r14_ret)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_udivdi3.o)
+                              kernel/built-in.o (__udivdi3)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umoddi3.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfprintf.o) (__umoddi3)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(dp-bit.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-dtoa.o) (__adddf3)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umulsidi3.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(dp-bit.o) (__umulsidi3)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_clzsi2.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(dp-bit.o) (__clzsi2)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_lshrdi3.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(dp-bit.o) (__lshrdi3)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_ashldi3.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(dp-bit.o) (__ashldi3)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_clz.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_udivdi3.o) (__clz_tab)
+/opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(fp-bit.o)
+                              /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(dp-bit.o) (__make_fp)
+
+Allocating common symbols
+Common symbol       size              file
+
+upm_distance_ft     0x4               ../Zephyr_dev/hello_world/nanokernel/src/built-in.o
+upm_temperature_ft  0x8               ../Zephyr_dev/hello_world/nanokernel/src/built-in.o
+upm_mem             0x64              ext/built-in.o
+upm_servo_ft        0x4               ../Zephyr_dev/hello_world/nanokernel/src/built-in.o
+errno               0x4               /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reent.o)
+upm_potentiometer_ft
+                    0x4               ../Zephyr_dev/hello_world/nanokernel/src/built-in.o
+_internalgpios      0x6c              ext/built-in.o
+_sys_clock_tick_count
+                    0x8               kernel/built-in.o
+upm_heart_rate_ft   0x4               ../Zephyr_dev/hello_world/nanokernel/src/built-in.o
+upm_acceleration_ft
+                    0xc               ../Zephyr_dev/hello_world/nanokernel/src/built-in.o
+upm_angle_ft        0x4               ../Zephyr_dev/hello_world/nanokernel/src/built-in.o
+quark_se_ipm_runtime_quark_se_ipm4
+                    0x8               arch/built-in.o
+upm_audio_ft        0x4               ../Zephyr_dev/hello_world/nanokernel/src/built-in.o
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 drivers/built-in.o
+ .text.sys_cycle_get_32
+                0x0000000000000000       0x1c drivers/built-in.o
+ .text._arc_v2_irq_unit_int_eoi
+                0x0000000000000000       0x18 drivers/built-in.o
+ .text._arc_v2_irq_unit_trigger_set
+                0x0000000000000000       0x14 drivers/built-in.o
+ .text._gpio_compat_handler
+                0x0000000000000000       0x34 drivers/built-in.o
+ .text.gpio_set_callback
+                0x0000000000000000       0x70 drivers/built-in.o
+ .data          0x0000000000000000        0x0 drivers/built-in.o
+ .bss           0x0000000000000000        0x0 drivers/built-in.o
+ .text          0x0000000000000000        0x0 ../Zephyr_dev/hello_world/nanokernel/src/built-in.o
+ .data          0x0000000000000000        0x0 ../Zephyr_dev/hello_world/nanokernel/src/built-in.o
+ .bss           0x0000000000000000        0x0 ../Zephyr_dev/hello_world/nanokernel/src/built-in.o
+ COMMON         0x0000000000000000       0x2c ../Zephyr_dev/hello_world/nanokernel/src/built-in.o
+ .text          0x0000000000000000        0x0 lib/built-in.o
+ .text.__stdin_hook_install
+                0x0000000000000000       0x14 lib/built-in.o
+ .text._kill    0x0000000000000000       0x10 lib/built-in.o
+ .text._getpid  0x0000000000000000       0x10 lib/built-in.o
+ .text._exit    0x0000000000000000       0x18 lib/built-in.o
+ .text._open    0x0000000000000000       0x10 lib/built-in.o
+ .rodata.str1.4
+                0x0000000000000000        0x8 lib/built-in.o
+ .data          0x0000000000000000        0x0 lib/built-in.o
+ .bss           0x0000000000000000        0x0 lib/built-in.o
+ .text          0x0000000000000000        0x0 kernel/built-in.o
+ .text._fiber_start
+                0x0000000000000000       0x60 kernel/built-in.o
+ .text.fiber_yield
+                0x0000000000000000       0x54 kernel/built-in.o
+ .text.fiber_delayed_start
+                0x0000000000000000       0xac kernel/built-in.o
+ .text.fiber_delayed_start_cancel
+                0x0000000000000000       0x44 kernel/built-in.o
+ .text.nano_task_lifo_put
+                0x0000000000000000       0x68 kernel/built-in.o
+ .text.nano_task_lifo_get
+                0x0000000000000000       0x8c kernel/built-in.o
+ .text._lifo_put_non_preemptible
+                0x0000000000000000       0x54 kernel/built-in.o
+ .text._lifo_get
+                0x0000000000000000       0xb4 kernel/built-in.o
+ .text.nano_lifo_init
+                0x0000000000000000       0x14 kernel/built-in.o
+ .text.nano_lifo_put
+                0x0000000000000000       0x38 kernel/built-in.o
+ .text.nano_lifo_get
+                0x0000000000000000       0x38 kernel/built-in.o
+ .text._nano_fiber_lifo_get_panic
+                0x0000000000000000       0x28 kernel/built-in.o
+ .text._nano_wait_q_remove
+                0x0000000000000000       0x40 kernel/built-in.o
+ .text._fifo_put_non_preemptible
+                0x0000000000000000       0x40 kernel/built-in.o
+ .text._fifo_put_list_non_preemptible
+                0x0000000000000000       0x48 kernel/built-in.o
+ .text._fifo_put_slist_non_preemptible
+                0x0000000000000000       0x14 kernel/built-in.o
+ .text.nano_task_fifo_put
+                0x0000000000000000       0x54 kernel/built-in.o
+ .text.nano_task_fifo_put_list
+                0x0000000000000000       0x64 kernel/built-in.o
+ .text.nano_task_fifo_put_slist
+                0x0000000000000000       0x14 kernel/built-in.o
+ .text.nano_task_fifo_get
+                0x0000000000000000       0x9c kernel/built-in.o
+ .text._fifo_get
+                0x0000000000000000       0xc0 kernel/built-in.o
+ .text.nano_fifo_init
+                0x0000000000000000       0x1c kernel/built-in.o
+ .text.nano_fifo_put
+                0x0000000000000000       0x38 kernel/built-in.o
+ .text.nano_fifo_put_list
+                0x0000000000000000       0x40 kernel/built-in.o
+ .text.nano_fifo_put_slist
+                0x0000000000000000       0x38 kernel/built-in.o
+ .text.nano_fifo_get
+                0x0000000000000000       0x38 kernel/built-in.o
+ .text._stack_push_non_preemptible
+                0x0000000000000000       0x3c kernel/built-in.o
+ .text.nano_task_stack_push
+                0x0000000000000000       0x50 kernel/built-in.o
+ .text._stack_pop
+                0x0000000000000000       0x58 kernel/built-in.o
+ .text.nano_task_stack_pop
+                0x0000000000000000       0x4c kernel/built-in.o
+ .text.nano_stack_init
+                0x0000000000000000       0x14 kernel/built-in.o
+ .text.nano_stack_push
+                0x0000000000000000       0x38 kernel/built-in.o
+ .text.nano_stack_pop
+                0x0000000000000000       0x40 kernel/built-in.o
+ .text.sys_tick_get_32
+                0x0000000000000000       0x14 kernel/built-in.o
+ .text.sys_tick_delta
+                0x0000000000000000       0x38 kernel/built-in.o
+ .text.sys_tick_delta_32
+                0x0000000000000000       0x34 kernel/built-in.o
+ .text._nano_get_earliest_deadline
+                0x0000000000000000       0x30 kernel/built-in.o
+ .text._thread_essential_set
+                0x0000000000000000       0x1c kernel/built-in.o
+ .text._thread_essential_clear
+                0x0000000000000000       0x1c kernel/built-in.o
+ .text.sys_thread_busy_wait
+                0x0000000000000000       0x48 kernel/built-in.o
+ .text.sys_kernel_version_get
+                0x0000000000000000       0x14 kernel/built-in.o
+ .text.device_busy_set
+                0x0000000000000000        0xc kernel/built-in.o
+ .text.device_busy_clear
+                0x0000000000000000        0xc kernel/built-in.o
+ .text._do_nano_timeout_abort
+                0x0000000000000000       0x80 kernel/built-in.o
+ .text._fiber_wakeup
+                0x0000000000000000       0x38 kernel/built-in.o
+ .text.task_fiber_wakeup
+                0x0000000000000000       0x4c kernel/built-in.o
+ .text.fiber_sleep
+                0x0000000000000000       0xa0 kernel/built-in.o
+ .text.fiber_wakeup
+                0x0000000000000000       0x2c kernel/built-in.o
+ .text._nano_task_sleep
+                0x0000000000000000       0x64 kernel/built-in.o
+ .text._timer_stop_non_preemptible
+                0x0000000000000000       0x3c kernel/built-in.o
+ .text.nano_task_timer_stop
+                0x0000000000000000       0x4c kernel/built-in.o
+ .text.nano_timer_stop
+                0x0000000000000000       0x2c kernel/built-in.o
+ .text.atomic_cas
+                0x0000000000000000       0x18 kernel/built-in.o
+ .text.atomic_add
+                0x0000000000000000       0x14 kernel/built-in.o
+ .text.atomic_sub
+                0x0000000000000000       0x14 kernel/built-in.o
+ .text.atomic_inc
+                0x0000000000000000       0x14 kernel/built-in.o
+ .text.atomic_dec
+                0x0000000000000000       0x14 kernel/built-in.o
+ .text.atomic_get
+                0x0000000000000000        0x4 kernel/built-in.o
+ .text.atomic_set
+                0x0000000000000000       0x10 kernel/built-in.o
+ .text.atomic_clear
+                0x0000000000000000       0x14 kernel/built-in.o
+ .text.atomic_or
+                0x0000000000000000       0x14 kernel/built-in.o
+ .text.atomic_xor
+                0x0000000000000000       0x14 kernel/built-in.o
+ .text.atomic_and
+                0x0000000000000000       0x14 kernel/built-in.o
+ .text.atomic_nand
+                0x0000000000000000       0x14 kernel/built-in.o
+ .text._get_errno
+                0x0000000000000000        0xc kernel/built-in.o
+ .rodata.func.1892
+                0x0000000000000000        0xc kernel/built-in.o
+ .rodata.func.1867
+                0x0000000000000000        0xc kernel/built-in.o
+ .rodata.func.1929
+                0x0000000000000000        0xc kernel/built-in.o
+ .rodata.func.1936
+                0x0000000000000000        0xc kernel/built-in.o
+ .rodata.func.1965
+                0x0000000000000000        0xc kernel/built-in.o
+ .rodata.func.1881
+                0x0000000000000000        0xc kernel/built-in.o
+ .rodata.func.1774
+                0x0000000000000000        0xc kernel/built-in.o
+ .rodata.func.1799
+                0x0000000000000000        0xc kernel/built-in.o
+ .rodata.func.1862
+                0x0000000000000000        0xc kernel/built-in.o
+ .rodata.func.1875
+                0x0000000000000000        0xc kernel/built-in.o
+ .data          0x0000000000000000        0x0 kernel/built-in.o
+ .data.sys_clock_us_per_tick
+                0x0000000000000000        0x4 kernel/built-in.o
+ .bss           0x0000000000000000        0x0 kernel/built-in.o
+ .text          0x0000000000000000        0x0 misc/built-in.o
+ .data          0x0000000000000000        0x0 misc/built-in.o
+ .bss           0x0000000000000000        0x0 misc/built-in.o
+ .text          0x0000000000000000        0x0 boards/built-in.o
+ .data          0x0000000000000000        0x0 boards/built-in.o
+ .bss           0x0000000000000000        0x0 boards/built-in.o
+ .comment       0x0000000000000000       0x5b boards/built-in.o
+ .debug_aranges
+                0x0000000000000000       0x18 boards/built-in.o
+ .debug_info    0x0000000000000000       0x6e boards/built-in.o
+ .debug_abbrev  0x0000000000000000       0x24 boards/built-in.o
+ .debug_line    0x0000000000000000       0x1d boards/built-in.o
+ .debug_str     0x0000000000000000      0x1bc boards/built-in.o
+ .text          0x0000000000000000        0x0 arch/built-in.o
+ .text._arch_irq_disable
+                0x0000000000000000       0x20 arch/built-in.o
+ .data          0x0000000000000000        0x0 arch/built-in.o
+ .bss           0x0000000000000000        0x0 arch/built-in.o
+ .text          0x0000000000000000        0x0 ext/built-in.o
+ .text.clk_trim_read
+                0x0000000000000000       0x24 ext/built-in.o
+ .text.clk_trim_apply
+                0x0000000000000000       0x30 ext/built-in.o
+ .text.clk_sys_set_mode
+                0x0000000000000000      0x1b4 ext/built-in.o
+ .text.clk_adc_set_div
+                0x0000000000000000       0x10 ext/built-in.o
+ .text.clk_periph_set_div
+                0x0000000000000000       0x20 ext/built-in.o
+ .text.clk_gpio_db_set_div
+                0x0000000000000000       0x28 ext/built-in.o
+ .text.clk_ext_set_div
+                0x0000000000000000       0x28 ext/built-in.o
+ .text.clk_rtc_set_div
+                0x0000000000000000       0x28 ext/built-in.o
+ .text.clk_periph_enable
+                0x0000000000000000       0x1c ext/built-in.o
+ .text.clk_periph_disable
+                0x0000000000000000       0x1c ext/built-in.o
+ .text.clk_sys_udelay
+                0x0000000000000000       0x24 ext/built-in.o
+ .text.ss_clk_gpio_disable
+                0x0000000000000000       0x28 ext/built-in.o
+ .text.ss_clk_spi_enable
+                0x0000000000000000       0x28 ext/built-in.o
+ .text.ss_clk_spi_disable
+                0x0000000000000000       0x28 ext/built-in.o
+ .text.ss_clk_i2c_disable
+                0x0000000000000000       0x28 ext/built-in.o
+ .text.ss_clk_adc_enable
+                0x0000000000000000       0x20 ext/built-in.o
+ .text.ss_clk_adc_disable
+                0x0000000000000000       0x20 ext/built-in.o
+ .text.ss_clk_adc_set_div
+                0x0000000000000000       0x24 ext/built-in.o
+ .text.qm_ss_gpio_set_pin_state
+                0x0000000000000000       0x30 ext/built-in.o
+ .text.qm_ss_i2c_set_speed
+                0x0000000000000000       0x40 ext/built-in.o
+ .text.qm_ss_i2c_master_write
+                0x0000000000000000       0xcc ext/built-in.o
+ .text.qm_ss_i2c_master_read
+                0x0000000000000000       0xe0 ext/built-in.o
+ .text.qm_ss_i2c_irq_transfer_terminate
+                0x0000000000000000       0x20 ext/built-in.o
+ .text.mraa_get_platform_name
+                0x0000000000000000       0x38 ext/built-in.o
+ .text.mraa_get_version
+                0x0000000000000000       0x14 ext/built-in.o
+ .text.mraa_get_platform_type
+                0x0000000000000000       0x30 ext/built-in.o
+ .text.mraa_has_sub_platform
+                0x0000000000000000       0x10 ext/built-in.o
+ .text.mraa_pin_mode_test
+                0x0000000000000000       0x90 ext/built-in.o
+ .text.mraa_get_i2c_bus_count
+                0x0000000000000000       0x1c ext/built-in.o
+ .text.mraa_get_i2c_bus_id
+                0x0000000000000000       0x28 ext/built-in.o
+ .text.mraa_get_pin_count
+                0x0000000000000000       0x1c ext/built-in.o
+ .text.mraa_get_platform_pin_count
+                0x0000000000000000       0x1c ext/built-in.o
+ .text.mraa_get_pin_name
+                0x0000000000000000       0x48 ext/built-in.o
+ .text.mraa_get_default_i2c_bus
+                0x0000000000000000       0x1c ext/built-in.o
+ .text.mraa_is_sub_platform_id
+                0x0000000000000000       0x10 ext/built-in.o
+ .text.mraa_get_sub_platform_id
+                0x0000000000000000       0x10 ext/built-in.o
+ .text.mraa_get_sub_platform_index
+                0x0000000000000000       0x10 ext/built-in.o
+ .text.gpio_internal_callback
+                0x0000000000000000       0x40 ext/built-in.o
+ .text.mraa_gpio_edge_mode
+                0x0000000000000000       0x48 ext/built-in.o
+ .text.mraa_gpio_isr
+                0x0000000000000000       0xd4 ext/built-in.o
+ .text.mraa_gpio_isr_exit
+                0x0000000000000000       0x3c ext/built-in.o
+ .text.mraa_gpio_get_pin
+                0x0000000000000000       0x18 ext/built-in.o
+ .text.mraa_gpio_get_pin_raw
+                0x0000000000000000       0x14 ext/built-in.o
+ .text.mraa_i2c_init_raw
+                0x0000000000000000       0x8c ext/built-in.o
+ .text.mraa_i2c_init
+                0x0000000000000000      0x140 ext/built-in.o
+ .text.mraa_i2c_frequency
+                0x0000000000000000       0x7c ext/built-in.o
+ .text.mraa_i2c_address
+                0x0000000000000000       0x10 ext/built-in.o
+ .text.mraa_i2c_read
+                0x0000000000000000       0x60 ext/built-in.o
+ .text.mraa_i2c_write
+                0x0000000000000000       0x5c ext/built-in.o
+ .text.mraa_i2c_read_byte
+                0x0000000000000000       0x2c ext/built-in.o
+ .text.mraa_i2c_read_byte_data
+                0x0000000000000000       0x70 ext/built-in.o
+ .text.mraa_i2c_read_bytes_data
+                0x0000000000000000       0x78 ext/built-in.o
+ .text.mraa_i2c_read_word_data
+                0x0000000000000000       0x2c ext/built-in.o
+ .text.mraa_i2c_write_byte
+                0x0000000000000000       0x24 ext/built-in.o
+ .text.mraa_i2c_write_byte_data
+                0x0000000000000000       0x28 ext/built-in.o
+ .text.mraa_i2c_write_word_data
+                0x0000000000000000       0x30 ext/built-in.o
+ .text.mraa_i2c_stop
+                0x0000000000000000       0x10 ext/built-in.o
+ .text.upm_ttp223_get_descriptor
+                0x0000000000000000       0x34 ext/built-in.o
+ .text.upm_ttp223_init_name
+                0x0000000000000000       0x10 ext/built-in.o
+ .text.upm_ttp223_write
+                0x0000000000000000       0x10 ext/built-in.o
+ .text.upm_ttp223_get_ft
+                0x0000000000000000       0x28 ext/built-in.o
+ .text.upm_ttp223_get_value
+                0x0000000000000000       0x24 ext/built-in.o
+ .text.upm_ttp223_is_pressed
+                0x0000000000000000       0x4c ext/built-in.o
+ .text.upm_ttp223_uninstall_isr
+                0x0000000000000000       0x28 ext/built-in.o
+ .text.upm_ttp223_install_isr
+                0x0000000000000000       0x4c ext/built-in.o
+ .text.upm_mem_debug
+                0x0000000000000000       0x5c ext/built-in.o
+ .text.upm_free
+                0x0000000000000000        0xc ext/built-in.o
+ .text.upm_delay
+                0x0000000000000000       0x48 ext/built-in.o
+ .text.upm_delay_us
+                0x0000000000000000       0x54 ext/built-in.o
+ .text.upm_tsl2561_get_descriptor
+                0x0000000000000000       0x34 ext/built-in.o
+ .text.upm_tsl2561_get_ft
+                0x0000000000000000       0x28 ext/built-in.o
+ .text.upm_tsl2561_init_name
+                0x0000000000000000       0x10 ext/built-in.o
+ .text.upm_tsl2561_write
+                0x0000000000000000       0x10 ext/built-in.o
+ .text.upm_tsl2561_close
+                0x0000000000000000       0x38 ext/built-in.o
+ .text.upm_assign_ft
+                0x0000000000000000       0x14 ext/built-in.o
+ .text.upm_tsl2561_init
+                0x0000000000000000       0xa8 ext/built-in.o
+ .text.upm_tsl2561_i2c_write_reg
+                0x0000000000000000       0x68 ext/built-in.o
+ .text.upm_tsl2561_i2c_read_reg
+                0x0000000000000000       0x58 ext/built-in.o
+ .text.upm_tsl2561_read
+                0x0000000000000000      0x1dc ext/built-in.o
+ .text.upm_tsl2561_get_lux
+                0x0000000000000000       0x30 ext/built-in.o
+ .rodata.ft     0x0000000000000000       0x28 ext/built-in.o
+ .rodata.sft    0x0000000000000000        0xc ext/built-in.o
+ .rodata.upm_ttp223_category
+                0x0000000000000000        0x4 ext/built-in.o
+ .rodata.upm_ttp223_description
+                0x0000000000000000       0x20 ext/built-in.o
+ .rodata.upm_ttp223_name
+                0x0000000000000000        0x8 ext/built-in.o
+ .rodata.upm_ttp223_protocol
+                0x0000000000000000        0x4 ext/built-in.o
+ .rodata.upm_tsl2561_protocol
+                0x0000000000000000        0x4 ext/built-in.o
+ .rodata.upm_tsl2561_category
+                0x0000000000000000        0x4 ext/built-in.o
+ .rodata.lft    0x0000000000000000        0xc ext/built-in.o
+ .rodata.CSWTCH.21
+                0x0000000000000000        0x6 ext/built-in.o
+ .rodata.upm_tsl2561_name
+                0x0000000000000000        0x8 ext/built-in.o
+ .rodata.upm_tsl2561_description
+                0x0000000000000000       0x1c ext/built-in.o
+ .data          0x0000000000000000        0x0 ext/built-in.o
+ .bss           0x0000000000000000        0x0 ext/built-in.o
+ .bss.edge_flags
+                0x0000000000000000        0x4 ext/built-in.o
+ .bss.tmp_i2c_dev
+                0x0000000000000000        0xa ext/built-in.o
+ .bss._internali2c
+                0x0000000000000000        0xa ext/built-in.o
+ .text          0x0000000000000000        0x0 ./arch/arc/core/offsets/offsets.o
+ .data          0x0000000000000000        0x0 ./arch/arc/core/offsets/offsets.o
+ .bss           0x0000000000000000        0x0 ./arch/arc/core/offsets/offsets.o
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-malloc.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-malloc.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-printf.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-printf.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000       0xa4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sprintf.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sprintf.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sprintf.o)
+ .debug_frame   0x0000000000000000       0x80 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sprintf.o)
+ .debug_info    0x0000000000000000      0x9de /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sprintf.o)
+ .debug_abbrev  0x0000000000000000      0x214 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sprintf.o)
+ .debug_loc     0x0000000000000000      0x108 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sprintf.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sprintf.o)
+ .debug_line    0x0000000000000000      0x24d /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sprintf.o)
+ .debug_str     0x0000000000000000      0x5b3 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sprintf.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sprintf.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-strcmp.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-strcmp.o)
+ .text          0x0000000000000000     0x1794 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfprintf.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfprintf.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfprintf.o)
+ .rodata.str1.4
+                0x0000000000000000       0x44 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfprintf.o)
+ .rodata        0x0000000000000000      0x184 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfprintf.o)
+ .debug_frame   0x0000000000000000       0xb0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfprintf.o)
+ .debug_info    0x0000000000000000     0x15eb /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfprintf.o)
+ .debug_abbrev  0x0000000000000000      0x36b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfprintf.o)
+ .debug_loc     0x0000000000000000     0x229f /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfprintf.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfprintf.o)
+ .debug_ranges  0x0000000000000000      0x148 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfprintf.o)
+ .debug_line    0x0000000000000000      0x9e5 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfprintf.o)
+ .debug_str     0x0000000000000000      0x915 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfprintf.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfprintf.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfprintf.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfprintf.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wsetup.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wsetup.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-dtoa.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-dtoa.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fflush.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fflush.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-findfp.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-findfp.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-freer.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-freer.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fwalk.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fwalk.o)
+ .text          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0xc /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-locale.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-makebuf.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memchr.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memchr.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mprec.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mprec.o)
+ .text          0x0000000000000000       0xe4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-s_fpclassify.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-s_fpclassify.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-stdio.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-stdio.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-strlen.o)
+ .text          0x0000000000000000      0xc98 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfiprintf.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfiprintf.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfiprintf.o)
+ .rodata.str1.4
+                0x0000000000000000       0x30 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfiprintf.o)
+ .rodata        0x0000000000000000      0x184 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfiprintf.o)
+ .debug_frame   0x0000000000000000      0x12c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfiprintf.o)
+ .debug_info    0x0000000000000000      0xfe5 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfiprintf.o)
+ .debug_abbrev  0x0000000000000000      0x2c1 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfiprintf.o)
+ .debug_loc     0x0000000000000000     0x1149 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfiprintf.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfiprintf.o)
+ .debug_ranges  0x0000000000000000       0x48 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfiprintf.o)
+ .debug_line    0x0000000000000000      0x705 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfiprintf.o)
+ .debug_str     0x0000000000000000      0x718 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfiprintf.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-svfiprintf.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfiprintf.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfiprintf.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-writer.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-writer.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-callocr.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-callocr.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-closer.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-closer.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fclose.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fclose.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fputwc.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fputwc.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fstatr.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fstatr.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fvwrite.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fvwrite.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-isattyr.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-isattyr.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-lseekr.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-lseekr.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memmove.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-readr.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-readr.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reallocr.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reallocr.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wbuf.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wbuf.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wcrtomb.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wcrtomb.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wctomb_r.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_mulsi3.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_mulsi3.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umodsi3.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umodsi3.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_modsi3.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_modsi3.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_divmod_tools.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_divmod_tools.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_millicodethunk_st.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_millicodethunk_st.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_millicodethunk_ld.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_millicodethunk_ld.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_millicodethunk_ret.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_millicodethunk_ret.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_udivdi3.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_udivdi3.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umoddi3.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umoddi3.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(dp-bit.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(dp-bit.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umulsidi3.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umulsidi3.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_clzsi2.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_clzsi2.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_lshrdi3.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_lshrdi3.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_ashldi3.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_ashldi3.o)
+ .text          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_clz.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_clz.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_clz.o)
+ .data          0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(fp-bit.o)
+ .bss           0x0000000000000000        0x0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(fp-bit.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000040000000 0x0000000000026000 xr
+SRAM             0x00000000a8000400 0x0000000000006000 xrw
+DCCM             0x0000000080000000 0x0000000000002000 rw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD drivers/built-in.o
+LOAD ../Zephyr_dev/hello_world/nanokernel/src/built-in.o
+LOAD lib/built-in.o
+LOAD kernel/built-in.o
+LOAD misc/built-in.o
+LOAD net/built-in.o
+LOAD boards/built-in.o
+LOAD arch/built-in.o
+LOAD ext/built-in.o
+LOAD ./arch/arc/core/offsets/offsets.o
+END GROUP
+LOAD /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libm.a
+LOAD /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a
+LOAD /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a
+
+text            0x0000000040000000     0xd2d8
+                0x0000000040000000                _image_rom_start = .
+                0x0000000040000000                _image_text_start = .
+ *(.exc_vector_table)
+ .exc_vector_table
+                0x0000000040000000       0x40 arch/built-in.o
+                0x0000000040000000                _VectorTable
+ *(.exc_vector_table.*)
+ *(.irq_vector_table)
+ *(.irq_vector_table.*)
+ .irq_vector_table._FILE_PATH_HASH.0
+                0x0000000040000040       0xd0 arch/built-in.o
+                0x0000000040000040                _irq_vector_table
+ *(.isr_irq*)
+ .isr_irq16     0x0000000040000110        0x0 arch/built-in.o
+                0x0000000040000110                _sw_isr_table
+ *(SORT(.gnu.linkonce.isr_irq[1][6-9]))
+ .gnu.linkonce.isr_irq16
+                0x0000000040000110        0x8 drivers/built-in.o
+ .gnu.linkonce.isr_irq17
+                0x0000000040000118        0x8 arch/built-in.o
+                0x0000000040000118                _isr_irq17
+ .gnu.linkonce.isr_irq18
+                0x0000000040000120        0x8 arch/built-in.o
+                0x0000000040000120                _isr_irq18
+ .gnu.linkonce.isr_irq19
+                0x0000000040000128        0x8 arch/built-in.o
+                0x0000000040000128                _isr_irq19
+ *(SORT(.gnu.linkonce.isr_irq[2-9][0-9]))
+ .gnu.linkonce.isr_irq20
+                0x0000000040000130        0x8 drivers/built-in.o
+ .gnu.linkonce.isr_irq21
+                0x0000000040000138        0x8 drivers/built-in.o
+ .gnu.linkonce.isr_irq22
+                0x0000000040000140        0x8 drivers/built-in.o
+ .gnu.linkonce.isr_irq23
+                0x0000000040000148        0x8 drivers/built-in.o
+ .gnu.linkonce.isr_irq24
+                0x0000000040000150        0x8 drivers/built-in.o
+ .gnu.linkonce.isr_irq25
+                0x0000000040000158        0x8 drivers/built-in.o
+ .gnu.linkonce.isr_irq26
+                0x0000000040000160        0x8 arch/built-in.o
+                0x0000000040000160                _isr_irq26
+ .gnu.linkonce.isr_irq27
+                0x0000000040000168        0x8 arch/built-in.o
+                0x0000000040000168                _isr_irq27
+ .gnu.linkonce.isr_irq28
+                0x0000000040000170        0x8 arch/built-in.o
+                0x0000000040000170                _isr_irq28
+ .gnu.linkonce.isr_irq29
+                0x0000000040000178        0x8 arch/built-in.o
+                0x0000000040000178                _isr_irq29
+ .gnu.linkonce.isr_irq30
+                0x0000000040000180        0x8 arch/built-in.o
+                0x0000000040000180                _isr_irq30
+ .gnu.linkonce.isr_irq31
+                0x0000000040000188        0x8 arch/built-in.o
+                0x0000000040000188                _isr_irq31
+ .gnu.linkonce.isr_irq32
+                0x0000000040000190        0x8 arch/built-in.o
+                0x0000000040000190                _isr_irq32
+ .gnu.linkonce.isr_irq33
+                0x0000000040000198        0x8 arch/built-in.o
+                0x0000000040000198                _isr_irq33
+ .gnu.linkonce.isr_irq34
+                0x00000000400001a0        0x8 arch/built-in.o
+                0x00000000400001a0                _isr_irq34
+ .gnu.linkonce.isr_irq35
+                0x00000000400001a8        0x8 arch/built-in.o
+                0x00000000400001a8                _isr_irq35
+ .gnu.linkonce.isr_irq36
+                0x00000000400001b0        0x8 arch/built-in.o
+                0x00000000400001b0                _isr_irq36
+ .gnu.linkonce.isr_irq37
+                0x00000000400001b8        0x8 arch/built-in.o
+                0x00000000400001b8                _isr_irq37
+ .gnu.linkonce.isr_irq38
+                0x00000000400001c0        0x8 arch/built-in.o
+                0x00000000400001c0                _isr_irq38
+ .gnu.linkonce.isr_irq39
+                0x00000000400001c8        0x8 arch/built-in.o
+                0x00000000400001c8                _isr_irq39
+ .gnu.linkonce.isr_irq40
+                0x00000000400001d0        0x8 arch/built-in.o
+                0x00000000400001d0                _isr_irq40
+ .gnu.linkonce.isr_irq41
+                0x00000000400001d8        0x8 arch/built-in.o
+                0x00000000400001d8                _isr_irq41
+ .gnu.linkonce.isr_irq42
+                0x00000000400001e0        0x8 arch/built-in.o
+                0x00000000400001e0                _isr_irq42
+ .gnu.linkonce.isr_irq43
+                0x00000000400001e8        0x8 arch/built-in.o
+                0x00000000400001e8                _isr_irq43
+ .gnu.linkonce.isr_irq44
+                0x00000000400001f0        0x8 arch/built-in.o
+                0x00000000400001f0                _isr_irq44
+ .gnu.linkonce.isr_irq45
+                0x00000000400001f8        0x8 arch/built-in.o
+                0x00000000400001f8                _isr_irq45
+ .gnu.linkonce.isr_irq46
+                0x0000000040000200        0x8 arch/built-in.o
+                0x0000000040000200                _isr_irq46
+ .gnu.linkonce.isr_irq47
+                0x0000000040000208        0x8 arch/built-in.o
+                0x0000000040000208                _isr_irq47
+ .gnu.linkonce.isr_irq48
+                0x0000000040000210        0x8 arch/built-in.o
+                0x0000000040000210                _isr_irq48
+ .gnu.linkonce.isr_irq49
+                0x0000000040000218        0x8 arch/built-in.o
+                0x0000000040000218                _isr_irq49
+ .gnu.linkonce.isr_irq50
+                0x0000000040000220        0x8 arch/built-in.o
+                0x0000000040000220                _isr_irq50
+ .gnu.linkonce.isr_irq51
+                0x0000000040000228        0x8 arch/built-in.o
+                0x0000000040000228                _isr_irq51
+ .gnu.linkonce.isr_irq52
+                0x0000000040000230        0x8 arch/built-in.o
+                0x0000000040000230                _isr_irq52
+ .gnu.linkonce.isr_irq53
+                0x0000000040000238        0x8 arch/built-in.o
+                0x0000000040000238                _isr_irq53
+ .gnu.linkonce.isr_irq54
+                0x0000000040000240        0x8 arch/built-in.o
+                0x0000000040000240                _isr_irq54
+ .gnu.linkonce.isr_irq55
+                0x0000000040000248        0x8 arch/built-in.o
+                0x0000000040000248                _isr_irq55
+ .gnu.linkonce.isr_irq56
+                0x0000000040000250        0x8 arch/built-in.o
+                0x0000000040000250                _isr_irq56
+ .gnu.linkonce.isr_irq57
+                0x0000000040000258        0x8 arch/built-in.o
+ .gnu.linkonce.isr_irq58
+                0x0000000040000260        0x8 arch/built-in.o
+                0x0000000040000260                _isr_irq58
+ .gnu.linkonce.isr_irq59
+                0x0000000040000268        0x8 arch/built-in.o
+                0x0000000040000268                _isr_irq59
+ .gnu.linkonce.isr_irq60
+                0x0000000040000270        0x8 arch/built-in.o
+                0x0000000040000270                _isr_irq60
+ .gnu.linkonce.isr_irq61
+                0x0000000040000278        0x8 arch/built-in.o
+                0x0000000040000278                _isr_irq61
+ .gnu.linkonce.isr_irq62
+                0x0000000040000280        0x8 arch/built-in.o
+                0x0000000040000280                _isr_irq62
+ .gnu.linkonce.isr_irq63
+                0x0000000040000288        0x8 arch/built-in.o
+                0x0000000040000288                _isr_irq63
+ .gnu.linkonce.isr_irq64
+                0x0000000040000290        0x8 arch/built-in.o
+                0x0000000040000290                _isr_irq64
+ .gnu.linkonce.isr_irq65
+                0x0000000040000298        0x8 arch/built-in.o
+                0x0000000040000298                _isr_irq65
+ .gnu.linkonce.isr_irq66
+                0x00000000400002a0        0x8 arch/built-in.o
+                0x00000000400002a0                _isr_irq66
+ .gnu.linkonce.isr_irq67
+                0x00000000400002a8        0x8 arch/built-in.o
+                0x00000000400002a8                _isr_irq67
+ *(SORT(.gnu.linkonce.isr_irq[1-9][0-9][0-9]))
+ *(.text)
+ .text          0x00000000400002b0       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-malloc.o)
+                0x00000000400002b0                malloc
+                0x00000000400002c0                free
+ .text          0x00000000400002d0      0x814 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mallocr.o)
+                0x00000000400002d0                _malloc_r
+ .text          0x0000000040000ae4       0x8c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memcpy.o)
+                0x0000000040000ae4                memcpy
+ .text          0x0000000040000b70       0x88 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memset.o)
+                0x0000000040000b70                memset
+                0x0000000040000bd8                __strncpy_bzero
+ .text          0x0000000040000bf8        0x8 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mlock.o)
+                0x0000000040000bf8                __malloc_lock
+                0x0000000040000bfc                __malloc_unlock
+ .text          0x0000000040000c00       0x60 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-printf.o)
+                0x0000000040000c00                _printf_r
+                0x0000000040000c2c                printf
+ .text          0x0000000040000c60       0x44 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sbrkr.o)
+                0x0000000040000c60                _sbrk_r
+ .text          0x0000000040000ca4       0x90 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-strcmp.o)
+                0x0000000040000ca4                strcmp
+ .text          0x0000000040000d34     0x189c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfprintf.o)
+                0x0000000040000d34                _vfprintf_r
+                0x000000004000251c                vfprintf
+ .text          0x00000000400025d0       0xf4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wsetup.o)
+                0x00000000400025d0                __swsetup_r
+ .text          0x00000000400026c4     0x13bc /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-dtoa.o)
+                0x0000000040002920                _dtoa_r
+ .text          0x0000000040003a80      0x1e4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fflush.o)
+                0x0000000040003a80                __sflush_r
+                0x0000000040003bf4                _fflush_r
+                0x0000000040003c3c                fflush
+ .text          0x0000000040003c64      0x2c4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-findfp.o)
+                0x0000000040003c6c                _cleanup_r
+                0x0000000040003c78                __sfmoreglue
+                0x0000000040003ccc                _cleanup
+                0x0000000040003ce0                __sinit
+                0x0000000040003e1c                __sfp
+                0x0000000040003ef0                __sfp_lock_acquire
+                0x0000000040003ef4                __sfp_lock_release
+                0x0000000040003ef8                __sinit_lock_acquire
+                0x0000000040003efc                __sinit_lock_release
+                0x0000000040003f00                __fp_lock_all
+                0x0000000040003f14                __fp_unlock_all
+ .text          0x0000000040003f28      0x3c4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-freer.o)
+                0x0000000040003f28                _malloc_trim_r
+                0x000000004000400c                _free_r
+ .text          0x00000000400042ec      0x110 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fwalk.o)
+                0x00000000400042ec                _fwalk
+                0x0000000040004370                _fwalk_reent
+ .text          0x00000000400043fc       0xa4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-locale.o)
+                0x00000000400043fc                _setlocale_r
+                0x000000004000445c                __locale_charset
+                0x0000000040004464                __locale_mb_cur_max
+                0x0000000040004470                __locale_msgcharset
+                0x0000000040004478                __locale_cjk_lang
+                0x000000004000447c                _localeconv_r
+                0x0000000040004484                setlocale
+                0x0000000040004498                localeconv
+ .text          0x00000000400044a0      0x114 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-makebuf.o)
+                0x00000000400044a0                __smakebuf_r
+ .text          0x00000000400045b4      0x110 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memchr.o)
+                0x00000000400045b4                memchr
+ .text          0x00000000400046c4      0xea0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mprec.o)
+                0x00000000400046c4                _Balloc
+                0x0000000040004748                _Bfree
+                0x0000000040004758                __multadd
+                0x0000000040004860                __s2b
+                0x000000004000492c                __hi0bits
+                0x00000000400049a8                __lo0bits
+                0x0000000040004a60                __i2b
+                0x0000000040004a80                __multiply
+                0x0000000040004cc0                __pow5mult
+                0x0000000040004d90                __lshift
+                0x0000000040004ea8                __mcmp
+                0x0000000040004ef0                __mdiff
+                0x0000000040005098                __ulp
+                0x000000004000510c                __b2d
+                0x0000000040005240                __d2b
+                0x0000000040005370                __ratio
+                0x000000004000542c                _mprec_log10
+                0x0000000040005474                __copybits
+                0x00000000400054e0                __any_on
+ .text          0x0000000040005564       0x58 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-s_fpclassify.o)
+                0x0000000040005564                __fpclassifyd
+ .text          0x00000000400055bc       0xd0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-stdio.o)
+                0x00000000400055bc                __sread
+                0x00000000400055f4                __seofread
+                0x00000000400055f8                __swrite
+                0x0000000040005648                __sseek
+                0x0000000040005684                __sclose
+ .text          0x000000004000568c       0x94 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-strlen.o)
+                0x000000004000568c                strlen
+ .text          0x0000000040005720      0xea4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfiprintf.o)
+                0x00000000400057e4                __sprint_r
+                0x00000000400057f8                _vfiprintf_r
+                0x0000000040006510                vfiprintf
+ .text          0x00000000400065c4       0x4c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-writer.o)
+                0x00000000400065c4                _write_r
+ .text          0x0000000040006610       0xa4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-callocr.o)
+                0x0000000040006610                _calloc_r
+ .text          0x00000000400066b4       0x44 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-closer.o)
+                0x00000000400066b4                _close_r
+ .text          0x00000000400066f8       0xc0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fclose.o)
+                0x00000000400066f8                _fclose_r
+                0x00000000400067a8                fclose
+ .text          0x00000000400067b8      0x154 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fputwc.o)
+                0x00000000400067b8                __fputwc
+                0x00000000400068b0                _fputwc_r
+                0x00000000400068cc                fputwc
+ .text          0x000000004000690c       0x48 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fstatr.o)
+                0x000000004000690c                _fstat_r
+ .text          0x0000000040006954      0x3a0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fvwrite.o)
+                0x0000000040006954                __sfvwrite_r
+ .text          0x0000000040006cf4       0x44 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-isattyr.o)
+                0x0000000040006cf4                _isatty_r
+ .text          0x0000000040006d38       0x4c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-lseekr.o)
+                0x0000000040006d38                _lseek_r
+ .text          0x0000000040006d84       0xfc /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memmove.o)
+                0x0000000040006d84                memmove
+ .text          0x0000000040006e80       0x4c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-readr.o)
+                0x0000000040006e80                _read_r
+ .text          0x0000000040006ecc      0x45c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reallocr.o)
+                0x0000000040006ecc                _realloc_r
+ .text          0x0000000040007328       0xf0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wbuf.o)
+                0x0000000040007328                __swbuf_r
+                0x0000000040007404                __swbuf
+ .text          0x0000000040007418       0xe4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wcrtomb.o)
+                0x0000000040007418                _wcrtomb_r
+                0x000000004000747c                wcrtomb
+ .text          0x00000000400074fc       0x58 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wctomb_r.o)
+                0x00000000400074fc                __ascii_wctomb
+                0x0000000040007518                _wctomb_r
+ .text          0x0000000040007554       0x30 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_mulsi3.o)
+                0x0000000040007554                __mulsi3
+ .text          0x0000000040007584        0x4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_udivsi3.o)
+                0x0000000040007584                __udivsi3
+ .text          0x0000000040007588       0x1c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_divsi3.o)
+                0x0000000040007588                __divsi3
+ .text          0x00000000400075a4       0x10 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umodsi3.o)
+                0x00000000400075a4                __umodsi3
+ .text          0x00000000400075b4       0x18 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_modsi3.o)
+                0x00000000400075b4                __modsi3
+ .text          0x00000000400075cc       0x80 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_divmod_tools.o)
+                0x00000000400075cc                __udivmodsi4
+ .text          0x000000004000764c       0x30 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_millicodethunk_st.o)
+                0x000000004000764c                __st_r13_to_r25
+                0x0000000040007650                __st_r13_to_r24
+                0x0000000040007654                __st_r13_to_r23
+                0x0000000040007658                __st_r13_to_r22
+                0x000000004000765c                __st_r13_to_r21
+                0x0000000040007660                __st_r13_to_r20
+                0x0000000040007664                __st_r13_to_r19
+                0x0000000040007668                __st_r13_to_r18
+                0x000000004000766c                __st_r13_to_r17
+                0x0000000040007670                __st_r13_to_r16
+                0x0000000040007674                __st_r13_to_r15
+ .text          0x000000004000767c       0x30 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_millicodethunk_ld.o)
+                0x000000004000767c                __ld_r13_to_r25
+                0x0000000040007680                __ld_r13_to_r24
+                0x0000000040007684                __ld_r13_to_r23
+                0x0000000040007688                __ld_r13_to_r22
+                0x000000004000768c                __ld_r13_to_r21
+                0x0000000040007690                __ld_r13_to_r20
+                0x0000000040007694                __ld_r13_to_r19
+                0x0000000040007698                __ld_r13_to_r18
+                0x000000004000769c                __ld_r13_to_r17
+                0x00000000400076a0                __ld_r13_to_r16
+                0x00000000400076a4                __ld_r13_to_r15
+ .text          0x00000000400076ac       0x3c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_millicodethunk_ret.o)
+                0x00000000400076ac                __ld_r13_to_r25_ret
+                0x00000000400076b0                __ld_r13_to_r24_ret
+                0x00000000400076b4                __ld_r13_to_r23_ret
+                0x00000000400076b8                __ld_r13_to_r22_ret
+                0x00000000400076bc                __ld_r13_to_r21_ret
+                0x00000000400076c0                __ld_r13_to_r20_ret
+                0x00000000400076c4                __ld_r13_to_r19_ret
+                0x00000000400076c8                __ld_r13_to_r18_ret
+                0x00000000400076cc                __ld_r13_to_r17_ret
+                0x00000000400076d0                __ld_r13_to_r16_ret
+                0x00000000400076d4                __ld_r13_to_r15_ret
+                0x00000000400076d8                __ld_r13_to_r14_ret
+ .text          0x00000000400076e8      0x734 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_udivdi3.o)
+                0x00000000400076e8                __udivdi3
+ .text          0x0000000040007e1c      0x6ec /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umoddi3.o)
+                0x0000000040007e1c                __umoddi3
+ .text          0x0000000040008508     0x1178 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(dp-bit.o)
+                0x000000004000889c                __pack_d
+                0x0000000040008ab0                __unpack_d
+                0x0000000040008bd8                __adddf3
+                0x0000000040008c0c                __subdf3
+                0x0000000040008c48                __muldf3
+                0x0000000040008eb0                __divdf3
+                0x0000000040009040                __fpcmp_parts_d
+                0x00000000400090f4                __cmpdf2
+                0x0000000040009120                __eqdf2
+                0x0000000040009160                __nedf2
+                0x00000000400091a0                __gtdf2
+                0x00000000400091e0                __gedf2
+                0x0000000040009220                __ltdf2
+                0x0000000040009260                __ledf2
+                0x00000000400092a0                __unorddf2
+                0x00000000400092dc                __floatsidf
+                0x00000000400093a8                __floatunsidf
+                0x000000004000949c                __fixdfsi
+                0x0000000040009548                __fixunsdfsi
+                0x00000000400095e0                __negdf2
+                0x000000004000960c                __make_dp
+                0x000000004000962c                __truncdfsf2
+ .text          0x0000000040009680       0x38 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umulsidi3.o)
+                0x0000000040009680                __umulsidi3
+ .text          0x00000000400096b8       0x30 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_clzsi2.o)
+                0x00000000400096b8                __clzsi2
+ .text          0x00000000400096e8       0x64 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_lshrdi3.o)
+                0x00000000400096e8                __lshrdi3
+ .text          0x000000004000974c       0x60 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_ashldi3.o)
+                0x000000004000974c                __ashldi3
+ .text          0x00000000400097ac      0xb0c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(fp-bit.o)
+                0x0000000040009984                __pack_f
+                0x0000000040009abc                __unpack_f
+                0x0000000040009b70                __addsf3
+                0x0000000040009ba4                __subsf3
+                0x0000000040009be0                __mulsf3
+                0x0000000040009d08                __divsf3
+                0x0000000040009e04                __fpcmp_parts_f
+                0x0000000040009e9c                __cmpsf2
+                0x0000000040009ec8                __eqsf2
+                0x0000000040009f08                __nesf2
+                0x0000000040009f48                __gtsf2
+                0x0000000040009f88                __gesf2
+                0x0000000040009fc8                __ltsf2
+                0x000000004000a008                __lesf2
+                0x000000004000a048                __unordsf2
+                0x000000004000a084                __floatsisf
+                0x000000004000a118                __floatunsisf
+                0x000000004000a1bc                __fixsfsi
+                0x000000004000a230                __negsf2
+                0x000000004000a25c                __make_fp
+                0x000000004000a278                __extendsfdf2
+ *(.text.*)
+ .text.consoleOut
+                0x000000004000a2b8       0x38 drivers/built-in.o
+ .text.ipm_console_sender_init
+                0x000000004000a2f0       0x68 drivers/built-in.o
+                0x000000004000a2f0                ipm_console_sender_init
+ .text._timer_int_handler
+                0x000000004000a358       0x34 drivers/built-in.o
+                0x000000004000a358                _timer_int_handler
+ .text._sys_clock_driver_init
+                0x000000004000a38c       0x5c drivers/built-in.o
+                0x000000004000a38c                _sys_clock_driver_init
+ .text._arc_v2_irq_unit_init
+                0x000000004000a3e8       0x34 drivers/built-in.o
+                0x000000004000a3e8                _arc_v2_irq_unit_init
+ .text._gpio_enable_callback
+                0x000000004000a41c       0x30 drivers/built-in.o
+                0x000000004000a41c                _gpio_enable_callback
+ .text._gpio_disable_callback
+                0x000000004000a44c       0x30 drivers/built-in.o
+                0x000000004000a44c                _gpio_disable_callback
+ .text._gpio_fire_callbacks
+                0x000000004000a47c       0x34 drivers/built-in.o
+ .text.ss_gpio_qmsi_0_int_callback
+                0x000000004000a4b0       0x28 drivers/built-in.o
+ .text.ss_qmsi_write_bit
+                0x000000004000a4d8       0x2c drivers/built-in.o
+ .text.ss_gpio_qmsi_manage_callback
+                0x000000004000a504       0x50 drivers/built-in.o
+ .text.ss_gpio_qmsi_init
+                0x000000004000a554       0x88 drivers/built-in.o
+ .text.ss_gpio_qmsi_disable_callback
+                0x000000004000a5dc       0x40 drivers/built-in.o
+ .text.ss_gpio_qmsi_enable_callback
+                0x000000004000a61c       0x40 drivers/built-in.o
+ .text.ss_gpio_qmsi_read
+                0x000000004000a65c       0x44 drivers/built-in.o
+ .text.ss_gpio_qmsi_write
+                0x000000004000a6a0       0x30 drivers/built-in.o
+ .text.ss_gpio_isr
+                0x000000004000a6d0       0x20 drivers/built-in.o
+                0x000000004000a6d0                ss_gpio_isr
+ .text.ss_qmsi_pin_config.isra.1
+                0x000000004000a6f0       0xe4 drivers/built-in.o
+ .text.ss_gpio_qmsi_config
+                0x000000004000a7d4       0x58 drivers/built-in.o
+ .text.ss_gpio_qmsi_1_int_callback
+                0x000000004000a82c       0x2c drivers/built-in.o
+ .text.i2c_qmsi_ss_suspend
+                0x000000004000a858       0x10 drivers/built-in.o
+ .text.i2c_qmsi_ss_resume
+                0x000000004000a868       0x10 drivers/built-in.o
+ .text.i2c_qmsi_ss_config_irq_0
+                0x000000004000a878       0x88 drivers/built-in.o
+ .text.i2c_qmsi_ss_isr
+                0x000000004000a900       0x20 drivers/built-in.o
+ .text.transfer_complete
+                0x000000004000a920       0x14 drivers/built-in.o
+ .text.i2c_qmsi_ss_transfer
+                0x000000004000a934       0xf8 drivers/built-in.o
+ .text.i2c_qmsi_ss_configure
+                0x000000004000aa2c       0x74 drivers/built-in.o
+ .text.i2c_qmsi_ss_init
+                0x000000004000aaa0       0x64 drivers/built-in.o
+ .text.quark_se_ipm_send
+                0x000000004000ab04       0xb4 drivers/built-in.o
+ .text.quark_se_ipm_max_data_size_get
+                0x000000004000abb8       0x10 drivers/built-in.o
+ .text.quark_se_ipm_max_id_val_get
+                0x000000004000abc8       0x14 drivers/built-in.o
+ .text.quark_se_ipm_register_callback
+                0x000000004000abdc       0x14 drivers/built-in.o
+ .text.quark_se_ipm_set_enabled
+                0x000000004000abf0       0x50 drivers/built-in.o
+ .text.quark_se_ipm_isr
+                0x000000004000ac40       0xa4 drivers/built-in.o
+                0x000000004000ac40                quark_se_ipm_isr
+ .text.quark_se_ipm_controller_initialize
+                0x000000004000ace4       0x1c drivers/built-in.o
+                0x000000004000ace4                quark_se_ipm_controller_initialize
+ .text.quark_se_ipm_initialize
+                0x000000004000ad00       0x40 drivers/built-in.o
+                0x000000004000ad00                quark_se_ipm_initialize
+ .text.main     0x000000004000ad40       0xb8 ../Zephyr_dev/hello_world/nanokernel/src/built-in.o
+                0x000000004000ad40                main
+ .text._stdout_hook_default
+                0x000000004000adf8       0x10 lib/built-in.o
+ .text._stdin_hook_default
+                0x000000004000ae08       0x10 lib/built-in.o
+ .text.__stdout_hook_install
+                0x000000004000ae18       0x14 lib/built-in.o
+                0x000000004000ae18                __stdout_hook_install
+ .text._read    0x000000004000ae2c       0x40 lib/built-in.o
+                0x000000004000ae2c                read
+                0x000000004000ae2c                _read
+ .text._write   0x000000004000ae6c       0x4c lib/built-in.o
+                0x000000004000ae6c                write
+                0x000000004000ae6c                _write
+ .text._isatty  0x000000004000aeb8       0x10 lib/built-in.o
+                0x000000004000aeb8                isatty
+                0x000000004000aeb8                _isatty
+ .text._fstat   0x000000004000aec8       0x18 lib/built-in.o
+                0x000000004000aec8                _fstat
+                0x000000004000aec8                fstat
+ .text._close   0x000000004000aee0       0x10 lib/built-in.o
+                0x000000004000aee0                close
+                0x000000004000aee0                _close
+ .text._lseek   0x000000004000aef0       0x10 lib/built-in.o
+                0x000000004000aef0                lseek
+                0x000000004000aef0                _lseek
+ .text._sbrk    0x000000004000af00       0x40 lib/built-in.o
+                0x000000004000af00                _sbrk
+                0x000000004000af00                sbrk
+ .text._nano_timeout_insert_point_test
+                0x000000004000af40       0xd8 kernel/built-in.o
+ .text._nano_fiber_ready
+                0x000000004000b018       0x28 kernel/built-in.o
+                0x000000004000b018                _nano_fiber_ready
+ .text._nano_fiber_swap
+                0x000000004000b040       0x10 kernel/built-in.o
+                0x000000004000b040                _nano_fiber_swap
+ .text.fiber_abort
+                0x000000004000b050        0xc kernel/built-in.o
+                0x000000004000b050                fiber_abort
+ .text._nano_timeout_abort
+                0x000000004000b05c       0xc0 kernel/built-in.o
+ .text.sys_tick_get
+                0x000000004000b11c       0x24 kernel/built-in.o
+                0x000000004000b11c                sys_tick_get
+ .text._nano_sys_clock_tick_announce
+                0x000000004000b140      0x10c kernel/built-in.o
+                0x000000004000b140                _nano_sys_clock_tick_announce
+ .text.sys_thread_self_get
+                0x000000004000b24c       0x14 kernel/built-in.o
+                0x000000004000b24c                sys_thread_self_get
+ .text.sys_execution_context_type_get
+                0x000000004000b260       0x2c kernel/built-in.o
+                0x000000004000b260                sys_execution_context_type_get
+ .text._is_thread_essential
+                0x000000004000b28c       0x1c kernel/built-in.o
+                0x000000004000b28c                _is_thread_essential
+ .text._thread_entry
+                0x000000004000b2a8       0x40 kernel/built-in.o
+                0x000000004000b2a8                _thread_entry
+ .text._main    0x000000004000b2e8       0x24 kernel/built-in.o
+ .text._Cstart  0x000000004000b30c       0x9c kernel/built-in.o
+                0x000000004000b30c                _Cstart
+ .text.nano_task_sem_give
+                0x000000004000b3a8       0x68 kernel/built-in.o
+                0x000000004000b3a8                nano_task_sem_give
+ .text.nano_task_sem_take
+                0x000000004000b410       0x90 kernel/built-in.o
+                0x000000004000b410                nano_task_sem_take
+ .text._sem_give_non_preemptible
+                0x000000004000b4a0       0x54 kernel/built-in.o
+                0x000000004000b4a0                nano_fiber_sem_give
+                0x000000004000b4a0                _sem_give_non_preemptible
+                0x000000004000b4a0                nano_isr_sem_give
+ .text._sem_take
+                0x000000004000b4f4       0xc0 kernel/built-in.o
+                0x000000004000b4f4                _sem_take
+                0x000000004000b4f4                nano_fiber_sem_take
+                0x000000004000b4f4                nano_isr_sem_take
+ .text.nano_sem_init
+                0x000000004000b5b4       0x14 kernel/built-in.o
+                0x000000004000b5b4                nano_sem_init
+ .text.nano_sem_give
+                0x000000004000b5c8       0x2c kernel/built-in.o
+                0x000000004000b5c8                nano_sem_give
+ .text.nano_sem_take
+                0x000000004000b5f4       0x38 kernel/built-in.o
+                0x000000004000b5f4                nano_sem_take
+ .text._sys_device_do_config_level
+                0x000000004000b62c       0x38 kernel/built-in.o
+                0x000000004000b62c                _sys_device_do_config_level
+ .text.device_get_binding
+                0x000000004000b664       0x44 kernel/built-in.o
+                0x000000004000b664                device_get_binding
+ .text.nano_isr_timer_test
+                0x000000004000b6a8       0x24 kernel/built-in.o
+                0x000000004000b6a8                nano_isr_timer_test
+ .text.nano_fiber_timer_test
+                0x000000004000b6cc       0x50 kernel/built-in.o
+                0x000000004000b6cc                nano_fiber_timer_test
+ .text.nano_timer_init
+                0x000000004000b71c       0x1c kernel/built-in.o
+                0x000000004000b71c                nano_timer_init
+ .text._timer_start
+                0x000000004000b738       0x88 kernel/built-in.o
+                0x000000004000b738                nano_timer_start
+                0x000000004000b738                nano_task_timer_start
+                0x000000004000b738                _timer_start
+                0x000000004000b738                nano_isr_timer_start
+                0x000000004000b738                nano_fiber_timer_start
+ .text.nano_timer_test
+                0x000000004000b7c0       0x38 kernel/built-in.o
+                0x000000004000b7c0                nano_timer_test
+ .text.nano_timer_ticks_remain
+                0x000000004000b7f8       0x54 kernel/built-in.o
+                0x000000004000b7f8                nano_timer_ticks_remain
+ .text.nano_task_timer_test
+                0x000000004000b84c       0x60 kernel/built-in.o
+                0x000000004000b84c                nano_task_timer_test
+ .text._nop_char_out
+                0x000000004000b8ac       0x10 misc/built-in.o
+ .text._printk_dec_ulong
+                0x000000004000b8bc       0x78 misc/built-in.o
+ .text.__printk_hook_install
+                0x000000004000b934       0x14 misc/built-in.o
+                0x000000004000b934                __printk_hook_install
+ .text.printk   0x000000004000b948      0x164 misc/built-in.o
+                0x000000004000b948                printk
+ .text._ConfigAbsSyms
+                0x000000004000baac        0xc misc/built-in.o
+                0x000000004000baac                _ConfigAbsSyms
+ .text.quark_se_arc_init
+                0x000000004000bab8       0x24 arch/built-in.o
+ .text.arc_quark_se_ipm_init
+                0x000000004000badc       0x20 arch/built-in.o
+ .text._new_thread
+                0x000000004000bafc       0x60 arch/built-in.o
+                0x000000004000bafc                _new_thread
+ .text._thread_entry_wrapper
+                0x000000004000bb5c       0x14 arch/built-in.o
+                0x000000004000bb5c                _thread_entry_wrapper
+ .text.nano_cpu_idle
+                0x000000004000bb70       0x18 arch/built-in.o
+                0x000000004000bb70                nano_cpu_idle
+ .text.nano_cpu_atomic_idle
+                0x000000004000bb88       0x18 arch/built-in.o
+                0x000000004000bb88                nano_cpu_atomic_idle
+ .text._firq_enter
+                0x000000004000bba0       0x14 arch/built-in.o
+                0x000000004000bba0                _firq_enter
+ .text._firq_exit
+                0x000000004000bbb4      0x1b8 arch/built-in.o
+                0x000000004000bbb4                _firq_exit
+ .text._firq_stack_setup
+                0x000000004000bd6c       0x38 arch/built-in.o
+                0x000000004000bd6c                _firq_stack_setup
+ .text._NanoFatalErrorHandler
+                0x000000004000bda4       0x58 arch/built-in.o
+                0x000000004000bda4                _NanoFatalErrorHandler
+ .text._FaultDump
+                0x000000004000bdfc       0x4c arch/built-in.o
+                0x000000004000bdfc                _FaultDump
+ .text._Fault   0x000000004000be48       0x28 arch/built-in.o
+                0x000000004000be48                _Fault
+ .text.__fault  0x000000004000be70       0xbc arch/built-in.o
+                0x000000004000be70                __ev_privilege_v
+                0x000000004000be70                __ev_maligned
+                0x000000004000be70                __ev_prot_v
+                0x000000004000be70                __ev_trap
+                0x000000004000be70                __ev_machine_check
+                0x000000004000be70                __ev_extension
+                0x000000004000be70                __instruction_error
+                0x000000004000be70                __ev_dc_error
+                0x000000004000be70                __memory_error
+                0x000000004000be70                __ev_tlb_miss_d
+                0x000000004000be70                __ev_div_zero
+                0x000000004000be70                __ev_swi
+                0x000000004000be70                __ev_tlb_miss_i
+ .text._arch_irq_enable
+                0x000000004000bf2c       0x20 arch/built-in.o
+                0x000000004000bf2c                _arch_irq_enable
+ .text._irq_priority_set
+                0x000000004000bf4c       0x20 arch/built-in.o
+                0x000000004000bf4c                _irq_priority_set
+ .text._irq_spurious
+                0x000000004000bf6c       0x14 arch/built-in.o
+                0x000000004000bf6c                _irq_spurious
+ .text._isr_enter
+                0x000000004000bf80       0x30 arch/built-in.o
+                0x000000004000bf80                _isr_enter
+ .text._isr_demux
+                0x000000004000bfb0       0x24 arch/built-in.o
+                0x000000004000bfb0                _isr_demux
+ .text._rirq_enter
+                0x000000004000bfd4       0x1c arch/built-in.o
+                0x000000004000bfd4                _rirq_enter
+ .text._rirq_exit
+                0x000000004000bff0       0xec arch/built-in.o
+                0x000000004000bff0                _rirq_exit
+                0x000000004000c066                _rirq_common_interrupt_swap
+ .text._Swap    0x000000004000c0dc      0x158 arch/built-in.o
+                0x000000004000c0dc                _Swap
+ .text._SysFatalErrorHandler
+                0x000000004000c234       0x6c arch/built-in.o
+                0x000000004000c234                _SysFatalErrorHandler
+ .text._PrepC   0x000000004000c2a0       0x94 arch/built-in.o
+                0x000000004000c2a0                _PrepC
+ .text.__reset  0x000000004000c334        0x0 arch/built-in.o
+                0x000000004000c334                __reset
+ .text.__start  0x000000004000c334       0x14 arch/built-in.o
+                0x000000004000c334                __start
+ .text.clk_sys_get_ticks_per_us
+                0x000000004000c348       0x14 ext/built-in.o
+                0x000000004000c348                clk_sys_get_ticks_per_us
+ .text.ss_clk_gpio_enable
+                0x000000004000c35c       0x28 ext/built-in.o
+                0x000000004000c35c                ss_clk_gpio_enable
+ .text.ss_clk_i2c_enable
+                0x000000004000c384       0x28 ext/built-in.o
+                0x000000004000c384                ss_clk_i2c_enable
+ .text.ss_gpio_isr_handler
+                0x000000004000c3ac       0x48 ext/built-in.o
+ .text.qm_ss_gpio_isr_0
+                0x000000004000c3f4       0x10 ext/built-in.o
+                0x000000004000c3f4                qm_ss_gpio_isr_0
+ .text.qm_ss_gpio_isr_1
+                0x000000004000c404       0x10 ext/built-in.o
+                0x000000004000c404                qm_ss_gpio_isr_1
+ .text.qm_ss_gpio_set_config
+                0x000000004000c414       0x74 ext/built-in.o
+                0x000000004000c414                qm_ss_gpio_set_config
+ .text.qm_ss_gpio_read_pin
+                0x000000004000c488       0x28 ext/built-in.o
+                0x000000004000c488                qm_ss_gpio_read_pin
+ .text.qm_ss_gpio_set_pin
+                0x000000004000c4b0       0x24 ext/built-in.o
+                0x000000004000c4b0                qm_ss_gpio_set_pin
+ .text.qm_ss_gpio_clear_pin
+                0x000000004000c4d4       0x2c ext/built-in.o
+                0x000000004000c4d4                qm_ss_gpio_clear_pin
+ .text.qm_ss_gpio_read_port
+                0x000000004000c500       0x20 ext/built-in.o
+                0x000000004000c500                qm_ss_gpio_read_port
+ .text.qm_ss_gpio_write_port
+                0x000000004000c520       0x1c ext/built-in.o
+                0x000000004000c520                qm_ss_gpio_write_port
+ .text.controller_disable
+                0x000000004000c53c       0x30 ext/built-in.o
+ .text.qm_ss_i2c_isr_handler
+                0x000000004000c56c      0x25c ext/built-in.o
+ .text.controller_enable
+                0x000000004000c7c8       0x30 ext/built-in.o
+ .text.qm_ss_i2c_isr_0
+                0x000000004000c7f8       0x10 ext/built-in.o
+                0x000000004000c7f8                qm_ss_i2c_isr_0
+ .text.qm_ss_i2c_isr_1
+                0x000000004000c808       0x10 ext/built-in.o
+                0x000000004000c808                qm_ss_i2c_isr_1
+ .text.qm_ss_i2c_set_config
+                0x000000004000c818      0x140 ext/built-in.o
+                0x000000004000c818                qm_ss_i2c_set_config
+ .text.qm_ss_i2c_get_status
+                0x000000004000c958       0x40 ext/built-in.o
+                0x000000004000c958                qm_ss_i2c_get_status
+ .text.qm_ss_i2c_master_irq_transfer
+                0x000000004000c998       0xa4 ext/built-in.o
+                0x000000004000c998                qm_ss_i2c_master_irq_transfer
+ .text.mraa_init
+                0x000000004000ca3c       0x3c ext/built-in.o
+                0x000000004000ca3c                mraa_init
+ .text.mraa_setup_mux_mapped
+                0x000000004000ca78      0x194 ext/built-in.o
+                0x000000004000ca78                mraa_setup_mux_mapped
+ .text.mraa_set_pininfo
+                0x000000004000cc0c       0x34 ext/built-in.o
+                0x000000004000cc0c                mraa_set_pininfo
+ .text.mraa_set_board_config
+                0x000000004000cc40       0x38 ext/built-in.o
+                0x000000004000cc40                mraa_set_board_config
+ .text.gpio_pin_configure
+                0x000000004000cc78       0x18 ext/built-in.o
+ .text.mraa_gpio_init_raw
+                0x000000004000cc90       0x6c ext/built-in.o
+                0x000000004000cc90                mraa_gpio_init_raw
+ .text.mraa_gpio_init
+                0x000000004000ccfc       0xd4 ext/built-in.o
+                0x000000004000ccfc                mraa_gpio_init
+ .text.mraa_gpio_dir
+                0x000000004000cdd0       0xa4 ext/built-in.o
+                0x000000004000cdd0                mraa_gpio_dir
+ .text.mraa_gpio_read
+                0x000000004000ce74       0x5c ext/built-in.o
+                0x000000004000ce74                mraa_gpio_read
+ .text.mraa_gpio_write
+                0x000000004000ced0       0x44 ext/built-in.o
+                0x000000004000ced0                mraa_gpio_write
+ .text.mraa_gpio_owner
+                0x000000004000cf14       0x18 ext/built-in.o
+                0x000000004000cf14                mraa_gpio_owner
+ .text.mraa_gpio_mode
+                0x000000004000cf2c       0x10 ext/built-in.o
+                0x000000004000cf2c                mraa_gpio_mode
+ .text.mraa_gpio_close
+                0x000000004000cf3c       0x10 ext/built-in.o
+                0x000000004000cf3c                mraa_gpio_close
+ .text.mraa_intel_arduino_101_sss
+                0x000000004000cf4c      0x250 ext/built-in.o
+                0x000000004000cf4c                mraa_intel_arduino_101_sss
+ .text.upm_ttp223_close
+                0x000000004000d19c        0xc ext/built-in.o
+                0x000000004000d19c                upm_ttp223_close
+ .text.upm_ttp223_read
+                0x000000004000d1a8       0x34 ext/built-in.o
+                0x000000004000d1a8                upm_ttp223_read
+ .text.upm_ttp223_init
+                0x000000004000d1dc       0x60 ext/built-in.o
+                0x000000004000d1dc                upm_ttp223_init
+ .text.upm_malloc
+                0x000000004000d23c       0x40 ext/built-in.o
+                0x000000004000d23c                upm_malloc
+ .text.upm_delay_ms
+                0x000000004000d27c       0x50 ext/built-in.o
+                0x000000004000d27c                upm_delay_ms
+ .text._OffsetAbsSyms
+                0x000000004000d2cc        0xc ./arch/arc/core/offsets/offsets.o
+                0x000000004000d2cc                _OffsetAbsSyms
+ *(.gnu.linkonce.t.*)
+                0x000000004000d2d8                _image_text_end = .
+
+devconfig       0x000000004000d2d8       0x60
+                0x000000004000d2d8                __devconfig_start = .
+ *(.devconfig.*)
+ .devconfig.init
+                0x000000004000d2d8       0x30 drivers/built-in.o
+ .devconfig.init
+                0x000000004000d308       0x30 arch/built-in.o
+ *(SORT(.devconfig*))
+                0x000000004000d338                __devconfig_end = .
+
+gpio_compat     0x000000004000d338       0x10
+                0x000000004000d338                __gpio_compat_start = .
+ *(.gpio_compat.*)
+ .gpio_compat.init
+                0x000000004000d338       0x10 drivers/built-in.o
+ *(SORT(.gpio_compat*))
+                0x000000004000d348                __gpio_compat_end = .
+
+rodata          0x000000004000d348      0xcd0
+ *(.rodata)
+ .rodata        0x000000004000d348       0x14 ext/built-in.o
+ .rodata        0x000000004000d35c      0x184 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfprintf.o)
+ .rodata        0x000000004000d4e0       0x10 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-dtoa.o)
+ .rodata        0x000000004000d4f0        0x4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-impure.o)
+                0x000000004000d4f0                _global_impure_ptr
+ .rodata        0x000000004000d4f4      0x124 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mprec.o)
+                0x000000004000d500                __mprec_tinytens
+                0x000000004000d528                __mprec_bigtens
+                0x000000004000d550                __mprec_tens
+ .rodata        0x000000004000d618      0x184 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfiprintf.o)
+ .rodata        0x000000004000d79c       0x14 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(dp-bit.o)
+                0x000000004000d79c                __thenan_df
+ .rodata        0x000000004000d7b0      0x100 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_clz.o)
+                0x000000004000d7b0                __clz_tab
+ .rodata        0x000000004000d8b0       0x10 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(fp-bit.o)
+                0x000000004000d8b0                __thenan_sf
+ *(.rodata.*)
+ .rodata.str1.4
+                0x000000004000d8c0       0x42 drivers/built-in.o
+                                         0x48 (size before relaxing)
+ *fill*         0x000000004000d902        0x2 
+ .rodata.str1.4
+                0x000000004000d904       0x90 ../Zephyr_dev/hello_world/nanokernel/src/built-in.o
+ .rodata.func.1886
+                0x000000004000d994        0xc kernel/built-in.o
+ .rodata.func.1863
+                0x000000004000d9a0        0xc kernel/built-in.o
+ .rodata.config_levels
+                0x000000004000d9ac       0x18 kernel/built-in.o
+ .rodata.func.1911
+                0x000000004000d9c4        0xc kernel/built-in.o
+ .rodata.str1.4
+                0x000000004000d9d0      0x1b0 arch/built-in.o
+                                        0x1b8 (size before relaxing)
+ .rodata._default_esf
+                0x000000004000db80        0x4 arch/built-in.o
+                0x000000004000db80                _default_esf
+ .rodata.gpio_base
+                0x000000004000db84        0x8 ext/built-in.o
+ .rodata.i2c_base
+                0x000000004000db8c        0x8 ext/built-in.o
+ .rodata.str1.4
+                0x000000004000db94      0x422 ext/built-in.o
+                                        0x434 (size before relaxing)
+ *fill*         0x000000004000dfb6        0x2 
+ .rodata.str1.4
+                0x000000004000dfb8       0x3f /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfprintf.o)
+                                         0x44 (size before relaxing)
+ *fill*         0x000000004000dff7        0x1 
+ .rodata.str1.4
+                0x000000004000dff8       0x10 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-dtoa.o)
+                                         0x14 (size before relaxing)
+ .rodata.str1.4
+                0x000000004000e008        0x2 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-impure.o)
+                                          0x4 (size before relaxing)
+ *fill*         0x000000004000e00a        0x2 
+ .rodata.str1.4
+                0x000000004000e00c        0xc /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-locale.o)
+                                         0x14 (size before relaxing)
+ .rodata.str1.4
+                0x0000000000000000       0x30 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfiprintf.o)
+ *(.gnu.linkonce.r.*)
+                0x000000004000e018                _image_rom_end = .
+                0x000000004000e018                __data_rom_start = ALIGN (0x4)
+
+datas           0x00000000a8000400      0x940 load address 0x000000004000e018
+                0x00000000a8000400                _image_ram_start = .
+                0x00000000a8000400                __data_ram_start = .
+ *(.data)
+ .data          0x00000000a8000400      0x410 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mallocr.o)
+                0x00000000a8000400                __malloc_sbrk_base
+                0x00000000a8000404                __malloc_trim_threshold
+                0x00000000a8000408                __malloc_av_
+ .data          0x00000000a8000810      0x428 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-impure.o)
+                0x00000000a8000810                _impure_ptr
+ .data          0x00000000a8000c38       0x7c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-locale.o)
+                0x00000000a8000cb0                __mb_cur_max
+ .data          0x00000000a8000cb4        0x4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wctomb_r.o)
+                0x00000000a8000cb4                __wctomb
+ *(.data.*)
+ .data.ss_gpio_0_config
+                0x00000000a8000cb8        0x8 drivers/built-in.o
+ .data.ss_gpio_1_config
+                0x00000000a8000cc0        0x8 drivers/built-in.o
+ .data.api_funcs
+                0x00000000a8000cc8       0x18 drivers/built-in.o
+ .data.config_info_0
+                0x00000000a8000ce0        0xc drivers/built-in.o
+ .data.api      0x00000000a8000cec       0x10 drivers/built-in.o
+ .data.ipm_quark_se_api_funcs
+                0x00000000a8000cfc       0x14 drivers/built-in.o
+                0x00000000a8000cfc                ipm_quark_se_api_funcs
+ .data._stdin_hook
+                0x00000000a8000d10        0x4 lib/built-in.o
+ .data._stdout_hook
+                0x00000000a8000d14        0x4 lib/built-in.o
+ .data._sys_idle_elapsed_ticks
+                0x00000000a8000d18        0x4 kernel/built-in.o
+                0x00000000a8000d18                _sys_idle_elapsed_ticks
+ .data.sys_clock_hw_cycles_per_tick
+                0x00000000a8000d1c        0x4 kernel/built-in.o
+                0x00000000a8000d1c                sys_clock_hw_cycles_per_tick
+ .data._char_out
+                0x00000000a8000d20        0x4 misc/built-in.o
+ .data.ipm_controller_config
+                0x00000000a8000d24        0x4 arch/built-in.o
+ .data.quark_se_ipm_sender_config
+                0x00000000a8000d28        0x8 arch/built-in.o
+                0x00000000a8000d28                quark_se_ipm_sender_config
+ .data.quark_se_ipm_config_quark_se_ipm4
+                0x00000000a8000d30        0xc arch/built-in.o
+                0x00000000a8000d30                quark_se_ipm_config_quark_se_ipm4
+ .data.ticks_per_us
+                0x00000000a8000d3c        0x4 ext/built-in.o
+
+initlevel       0x00000000a8000d40       0x60 load address 0x000000004000e958
+                0x00000000a8000d40                __device_init_start = .
+                0x00000000a8000d40                __device_PRIMARY_start = .
+ *(SORT(.init_PRIMARY[0-9]))
+ *(SORT(.init_PRIMARY[1-9][0-9]))
+ .init_PRIMARY40
+                0x00000000a8000d40        0xc arch/built-in.o
+                0x00000000a8000d4c                __device_SECONDARY_start = .
+ *(SORT(.init_SECONDARY[0-9]))
+ .init_SECONDARY0
+                0x00000000a8000d4c        0xc drivers/built-in.o
+ *(SORT(.init_SECONDARY[1-9][0-9]))
+ .init_SECONDARY40
+                0x00000000a8000d58       0x18 arch/built-in.o
+ .init_SECONDARY50
+                0x00000000a8000d70       0x24 drivers/built-in.o
+ .init_SECONDARY60
+                0x00000000a8000d94        0xc arch/built-in.o
+                0x00000000a8000da0                __device_NANOKERNEL_start = .
+ *(SORT(.init_NANOKERNEL[0-9]))
+ *(SORT(.init_NANOKERNEL[1-9][0-9]))
+                0x00000000a8000da0                __device_MICROKERNEL_start = .
+ *(SORT(.init_MICROKERNEL[0-9]))
+ *(SORT(.init_MICROKERNEL[1-9][0-9]))
+                0x00000000a8000da0                __device_APPLICATION_start = .
+ *(SORT(.init_APPLICATION[0-9]))
+ *(SORT(.init_APPLICATION[1-9][0-9]))
+                0x00000000a8000da0                __device_init_end = .
+
+_k_task_list    0x00000000a8000da0        0x0
+                0x00000000a8000da0                _k_task_list_start = .
+ *(._k_task_list.public.*)
+ *(._k_task_list.private.*)
+                0x00000000a8000da0                _k_task_list_idle_start = .
+ *(._k_task_list.idle.*)
+ *(SORT(._k_task_list*))
+                0x00000000a8000da0                _k_task_list_end = .
+
+_k_task_ptr     0x00000000a8000da0        0x0
+                0x00000000a8000da0                _k_task_ptr_start = .
+ *(._k_task_ptr.public.*)
+ *(._k_task_ptr.private.*)
+ *(._k_task_ptr.idle.*)
+ *(SORT(._k_task_ptr*))
+                0x00000000a8000da0                _k_task_ptr_end = .
+
+_k_pipe_ptr     0x00000000a8000da0        0x0
+                0x00000000a8000da0                _k_pipe_ptr_start = .
+ *(._k_pipe_ptr.public.*)
+ *(._k_pipe_ptr.private.*)
+ *(SORT(._k_pipe_ptr*))
+                0x00000000a8000da0                _k_pipe_ptr_end = .
+
+_k_mem_map_ptr  0x00000000a8000da0        0x0
+                0x00000000a8000da0                _k_mem_map_ptr_start = .
+ *(._k_mem_map_ptr.public.*)
+ *(._k_mem_map_ptr.private.*)
+ *(SORT(._k_mem_map_ptr*))
+                0x00000000a8000da0                _k_mem_map_ptr_end = .
+
+_k_event_list   0x00000000a8000da0        0x0
+                0x00000000a8000da0                _k_event_list_start = .
+ *(._k_event_list.event.*)
+ *(SORT(._k_event_list*))
+                0x00000000a8000da0                _k_event_list_end = .
+                0x00000000a8000da0                __data_ram_end = .
+
+bss             0x00000000a8000da0      0x780 load address 0x000000004000e9b8
+                0x00000000a8000da0                . = ALIGN (0x4)
+                0x00000000a8000da0                __bss_start = .
+ *(.bss)
+ .bss           0x00000000a8000da0       0x34 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mallocr.o)
+                0x00000000a8000da0                __malloc_current_mallinfo
+                0x00000000a8000dc8                __malloc_max_total_mem
+                0x00000000a8000dcc                __malloc_max_sbrked_mem
+                0x00000000a8000dd0                __malloc_top_pad
+ *(.bss.*)
+ .bss.ipm_console_device
+                0x00000000a8000dd4        0x4 drivers/built-in.o
+ .bss.accumulated_cycle_count
+                0x00000000a8000dd8        0x4 drivers/built-in.o
+ .bss.gpio_1_runtime
+                0x00000000a8000ddc        0xc drivers/built-in.o
+ .bss.ss_gpio_0_runtime
+                0x00000000a8000de8        0xc drivers/built-in.o
+ .bss.__gcd_ss_gpio_0
+                0x00000000a8000df4       0x10 drivers/built-in.o
+ .bss.__gcd_ss_gpio_1
+                0x00000000a8000e04       0x10 drivers/built-in.o
+ .bss.driver_data_0
+                0x00000000a8000e14       0x1c drivers/built-in.o
+ .bss.device_by_channel
+                0x00000000a8000e30       0x20 drivers/built-in.o
+ .bss.inbound_channels
+                0x00000000a8000e50        0x4 drivers/built-in.o
+ .bss.heap_sz   0x00000000a8000e54        0x4 lib/built-in.o
+ .bss._nanokernel
+                0x00000000a8000e58       0x1c arch/built-in.o
+                0x00000000a8000e58                _nanokernel
+ .bss.nano_cpu_sleep_mode
+                0x00000000a8000e74        0x4 arch/built-in.o
+                0x00000000a8000e74                nano_cpu_sleep_mode
+ .bss.saved_stack_pointer
+                0x00000000a8000e78        0x4 arch/built-in.o
+ .bss.callback_data
+                0x00000000a8000e7c        0x8 ext/built-in.o
+ .bss.callback  0x00000000a8000e84        0x8 ext/built-in.o
+ .bss.i2c_read_buffer_remaining
+                0x00000000a8000e8c        0x8 ext/built-in.o
+ .bss.i2c_transfer
+                0x00000000a8000e94       0x38 ext/built-in.o
+ .bss.i2c_read_pos
+                0x00000000a8000ecc        0x8 ext/built-in.o
+ .bss.i2c_write_pos
+                0x00000000a8000ed4        0x8 ext/built-in.o
+ .bss.plat      0x00000000a8000edc        0x4 ext/built-in.o
+                0x00000000a8000edc                plat
+ .bss._internalgpios
+                0x00000000a8000ee0      0x21c ext/built-in.o
+ .bss.tmp_context
+                0x00000000a80010fc       0x1b ext/built-in.o
+ .bss._board    0x00000000a8001117      0x31f ext/built-in.o
+ *fill*         0x00000000a8001436        0x2 
+ .bss.upm_mem_head
+                0x00000000a8001438        0x4 ext/built-in.o
+                0x00000000a8001438                upm_mem_head
+ *(COMMON)
+ COMMON         0x00000000a800143c        0x8 kernel/built-in.o
+                0x00000000a800143c                _sys_clock_tick_count
+ COMMON         0x00000000a8001444        0x8 arch/built-in.o
+                0x00000000a8001444                quark_se_ipm_runtime_quark_se_ipm4
+ COMMON         0x00000000a800144c       0xd0 ext/built-in.o
+                0x00000000a800144c                upm_mem
+                0x00000000a80014b0                _internalgpios
+ COMMON         0x00000000a800151c        0x4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reent.o)
+                0x00000000a800151c                errno
+                0x00000000a8001520                __bss_end = ALIGN (0x4)
+
+noinit          0x00000000a8001520     0x1004 load address 0x000000004000f138
+ *(.noinit)
+ *(.noinit.*)
+ .noinit._FILE_PATH_HASH.0
+                0x00000000a8001520        0x4 drivers/built-in.o
+ .noinit._FILE_PATH_HASH.0
+                0x00000000a8001524      0x400 kernel/built-in.o
+                0x00000000a8001524                main_task_stack
+ .noinit._FILE_PATH_HASH.1
+                0x00000000a8001924      0x800 kernel/built-in.o
+                0x00000000a8001924                _interrupt_stack
+ .noinit._firq_stack
+                0x00000000a8002124      0x400 arch/built-in.o
+                0x00000000a8002124                _firq_stack
+                0x00000000a8002524                _image_ram_end = .
+                0x00000000a8002524                _end = .
+                0x00000000000001e0                __bss_num_words = ((__bss_end - __bss_start) >> 0x2)
+
+initlevel_error
+                0x00000000a8002524        0x0
+ *(SORT(.init_[_A-Z0-9]*))
+                0x0000000000000001                ASSERT ((SIZEOF (initlevel_error) == 0x0), Undefined initialization levels used.)
+                0x00000000000009a0                __data_size = (__data_ram_end - __data_ram_start)
+                0x0000000000000268                __data_num_words = ((__data_size + 0x3) >> 0x2)
+OUTPUT(.tmp_zephyr.prebuilt elf32-littlearc)
+
+.comment        0x0000000000000000       0x5a
+ .comment       0x0000000000000000       0x5a drivers/built-in.o
+                                        0x2d8 (size before relaxing)
+ .comment       0x0000000000000000       0x5b ../Zephyr_dev/hello_world/nanokernel/src/built-in.o
+ .comment       0x0000000000000000       0x5b lib/built-in.o
+ .comment       0x0000000000000000      0x4fa kernel/built-in.o
+ .comment       0x0000000000000000       0xb6 misc/built-in.o
+ .comment       0x0000000000000000      0x38e arch/built-in.o
+ .comment       0x0000000000000000      0x3e9 ext/built-in.o
+ .comment       0x0000000000000000       0x5b ./arch/arc/core/offsets/offsets.o
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-malloc.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mallocr.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mlock.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-printf.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sbrkr.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfprintf.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wsetup.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-dtoa.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fflush.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-findfp.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-freer.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fwalk.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-impure.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-locale.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-makebuf.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memchr.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mprec.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reent.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-s_fpclassify.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-stdio.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfiprintf.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-writer.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-callocr.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-closer.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fclose.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fputwc.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fstatr.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fvwrite.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-isattyr.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-lseekr.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memmove.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-readr.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reallocr.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wbuf.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wcrtomb.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wctomb_r.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_udivdi3.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umoddi3.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(dp-bit.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_lshrdi3.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_ashldi3.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_clz.o)
+ .comment       0x0000000000000000       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(fp-bit.o)
+
+.debug_aranges  0x0000000000000000     0x1618
+ .debug_aranges
+                0x0000000000000000      0x208 drivers/built-in.o
+ .debug_aranges
+                0x0000000000000208       0x20 ../Zephyr_dev/hello_world/nanokernel/src/built-in.o
+ .debug_aranges
+                0x0000000000000228       0x90 lib/built-in.o
+ .debug_aranges
+                0x00000000000002b8      0x480 kernel/built-in.o
+ .debug_aranges
+                0x0000000000000738       0x58 misc/built-in.o
+ .debug_aranges
+                0x0000000000000790      0x278 arch/built-in.o
+ .debug_aranges
+                0x0000000000000a08      0x4c0 ext/built-in.o
+ .debug_aranges
+                0x0000000000000ec8       0x20 ./arch/arc/core/offsets/offsets.o
+ .debug_aranges
+                0x0000000000000ee8       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-malloc.o)
+ .debug_aranges
+                0x0000000000000f08       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mallocr.o)
+ .debug_aranges
+                0x0000000000000f28       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x0000000000000f48       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memset.o)
+ .debug_aranges
+                0x0000000000000f68       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mlock.o)
+ .debug_aranges
+                0x0000000000000f88       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-printf.o)
+ .debug_aranges
+                0x0000000000000fa8       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sbrkr.o)
+ .debug_aranges
+                0x0000000000000fc8       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-strcmp.o)
+ .debug_aranges
+                0x0000000000000fe8       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfprintf.o)
+ .debug_aranges
+                0x0000000000001008       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wsetup.o)
+ .debug_aranges
+                0x0000000000001028       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-dtoa.o)
+ .debug_aranges
+                0x0000000000001048       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fflush.o)
+ .debug_aranges
+                0x0000000000001068       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-findfp.o)
+ .debug_aranges
+                0x0000000000001088       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-freer.o)
+ .debug_aranges
+                0x00000000000010a8       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fwalk.o)
+ .debug_aranges
+                0x00000000000010c8       0x18 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-impure.o)
+ .debug_aranges
+                0x00000000000010e0       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-locale.o)
+ .debug_aranges
+                0x0000000000001100       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-makebuf.o)
+ .debug_aranges
+                0x0000000000001120       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memchr.o)
+ .debug_aranges
+                0x0000000000001140       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mprec.o)
+ .debug_aranges
+                0x0000000000001160       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reent.o)
+ .debug_aranges
+                0x0000000000001180       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-s_fpclassify.o)
+ .debug_aranges
+                0x00000000000011a0       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-stdio.o)
+ .debug_aranges
+                0x00000000000011c0       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x00000000000011e0       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfiprintf.o)
+ .debug_aranges
+                0x0000000000001200       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-writer.o)
+ .debug_aranges
+                0x0000000000001220       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-callocr.o)
+ .debug_aranges
+                0x0000000000001240       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-closer.o)
+ .debug_aranges
+                0x0000000000001260       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fclose.o)
+ .debug_aranges
+                0x0000000000001280       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fputwc.o)
+ .debug_aranges
+                0x00000000000012a0       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fstatr.o)
+ .debug_aranges
+                0x00000000000012c0       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fvwrite.o)
+ .debug_aranges
+                0x00000000000012e0       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-isattyr.o)
+ .debug_aranges
+                0x0000000000001300       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-lseekr.o)
+ .debug_aranges
+                0x0000000000001320       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memmove.o)
+ .debug_aranges
+                0x0000000000001340       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-readr.o)
+ .debug_aranges
+                0x0000000000001360       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reallocr.o)
+ .debug_aranges
+                0x0000000000001380       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wbuf.o)
+ .debug_aranges
+                0x00000000000013a0       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wcrtomb.o)
+ .debug_aranges
+                0x00000000000013c0       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wctomb_r.o)
+ .debug_aranges
+                0x00000000000013e0       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_mulsi3.o)
+ .debug_aranges
+                0x0000000000001400       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x0000000000001420       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x0000000000001440       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umodsi3.o)
+ .debug_aranges
+                0x0000000000001460       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_modsi3.o)
+ .debug_aranges
+                0x0000000000001480       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_divmod_tools.o)
+ .debug_aranges
+                0x00000000000014a0       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_millicodethunk_st.o)
+ .debug_aranges
+                0x00000000000014c0       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_millicodethunk_ld.o)
+ .debug_aranges
+                0x00000000000014e0       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_millicodethunk_ret.o)
+ .debug_aranges
+                0x0000000000001500       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x0000000000001520       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umoddi3.o)
+ .debug_aranges
+                0x0000000000001540       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(dp-bit.o)
+ .debug_aranges
+                0x0000000000001560       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umulsidi3.o)
+ .debug_aranges
+                0x0000000000001580       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000000000015a0       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_lshrdi3.o)
+ .debug_aranges
+                0x00000000000015c0       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_ashldi3.o)
+ .debug_aranges
+                0x00000000000015e0       0x18 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_clz.o)
+ .debug_aranges
+                0x00000000000015f8       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(fp-bit.o)
+
+.debug_info     0x0000000000000000    0x34292
+ .debug_info    0x0000000000000000     0x40c8 drivers/built-in.o
+ .debug_info    0x00000000000040c8      0x739 ../Zephyr_dev/hello_world/nanokernel/src/built-in.o
+ .debug_info    0x0000000000004801      0x581 lib/built-in.o
+ .debug_info    0x0000000000004d82     0x8252 kernel/built-in.o
+ .debug_info    0x000000000000cfd4      0x36a misc/built-in.o
+ .debug_info    0x000000000000d33e     0x20c4 arch/built-in.o
+ .debug_info    0x000000000000f402     0x7e14 ext/built-in.o
+ .debug_info    0x0000000000017216      0x4ba ./arch/arc/core/offsets/offsets.o
+ .debug_info    0x00000000000176d0      0x915 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-malloc.o)
+ .debug_info    0x0000000000017fe5      0xd81 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mallocr.o)
+ .debug_info    0x0000000000018d66       0xe4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memcpy.o)
+ .debug_info    0x0000000000018e4a       0xe4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memset.o)
+ .debug_info    0x0000000000018f2e      0x8b4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mlock.o)
+ .debug_info    0x00000000000197e2      0x99a /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-printf.o)
+ .debug_info    0x000000000001a17c      0x8f4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sbrkr.o)
+ .debug_info    0x000000000001aa70       0xe4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-strcmp.o)
+ .debug_info    0x000000000001ab54     0x17a3 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfprintf.o)
+ .debug_info    0x000000000001c2f7      0x921 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wsetup.o)
+ .debug_info    0x000000000001cc18     0x130c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-dtoa.o)
+ .debug_info    0x000000000001df24      0xa8f /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fflush.o)
+ .debug_info    0x000000000001e9b3      0xd6f /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-findfp.o)
+ .debug_info    0x000000000001f722      0xc1c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-freer.o)
+ .debug_info    0x000000000002033e      0x99e /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fwalk.o)
+ .debug_info    0x0000000000020cdc      0x894 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-impure.o)
+ .debug_info    0x0000000000021570      0xbe5 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-locale.o)
+ .debug_info    0x0000000000022155      0xae5 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-makebuf.o)
+ .debug_info    0x0000000000022c3a      0x12b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memchr.o)
+ .debug_info    0x0000000000022d65     0x167e /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mprec.o)
+ .debug_info    0x00000000000243e3      0x9e3 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reent.o)
+ .debug_info    0x0000000000024dc6       0xdb /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-s_fpclassify.o)
+ .debug_info    0x0000000000024ea1      0xb8a /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-stdio.o)
+ .debug_info    0x0000000000025a2b       0xe4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-strlen.o)
+ .debug_info    0x0000000000025b0f     0x14ee /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfiprintf.o)
+ .debug_info    0x0000000000026ffd      0x926 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-writer.o)
+ .debug_info    0x0000000000027923      0x9e0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-callocr.o)
+ .debug_info    0x0000000000028303      0x8d3 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-closer.o)
+ .debug_info    0x0000000000028bd6      0x9c6 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fclose.o)
+ .debug_info    0x000000000002959c      0xa9c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fputwc.o)
+ .debug_info    0x000000000002a038      0xa56 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fstatr.o)
+ .debug_info    0x000000000002aa8e      0xc4b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fvwrite.o)
+ .debug_info    0x000000000002b6d9      0x8d3 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-isattyr.o)
+ .debug_info    0x000000000002bfac      0x914 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-lseekr.o)
+ .debug_info    0x000000000002c8c0      0x131 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memmove.o)
+ .debug_info    0x000000000002c9f1      0x91f /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-readr.o)
+ .debug_info    0x000000000002d310      0xc81 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reallocr.o)
+ .debug_info    0x000000000002df91      0x9c2 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wbuf.o)
+ .debug_info    0x000000000002e953      0xa5c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wcrtomb.o)
+ .debug_info    0x000000000002f3af      0x9a1 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wctomb_r.o)
+ .debug_info    0x000000000002fd50      0x140 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_mulsi3.o)
+ .debug_info    0x000000000002fe90      0x140 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_udivsi3.o)
+ .debug_info    0x000000000002ffd0      0x140 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_divsi3.o)
+ .debug_info    0x0000000000030110      0x140 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umodsi3.o)
+ .debug_info    0x0000000000030250      0x140 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_modsi3.o)
+ .debug_info    0x0000000000030390      0x140 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_divmod_tools.o)
+ .debug_info    0x00000000000304d0      0x140 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_millicodethunk_st.o)
+ .debug_info    0x0000000000030610      0x140 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_millicodethunk_ld.o)
+ .debug_info    0x0000000000030750      0x140 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_millicodethunk_ret.o)
+ .debug_info    0x0000000000030890      0x6dd /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_udivdi3.o)
+ .debug_info    0x0000000000030f6d      0x6ed /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umoddi3.o)
+ .debug_info    0x000000000003165a     0x139a /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(dp-bit.o)
+ .debug_info    0x00000000000329f4      0x140 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umulsidi3.o)
+ .debug_info    0x0000000000032b34      0x140 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_clzsi2.o)
+ .debug_info    0x0000000000032c74      0x183 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_lshrdi3.o)
+ .debug_info    0x0000000000032df7      0x189 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_ashldi3.o)
+ .debug_info    0x0000000000032f80       0xae /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_clz.o)
+ .debug_info    0x000000000003302e     0x1264 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(fp-bit.o)
+
+.debug_abbrev   0x0000000000000000     0xbf7e
+ .debug_abbrev  0x0000000000000000     0x11a9 drivers/built-in.o
+ .debug_abbrev  0x00000000000011a9      0x178 ../Zephyr_dev/hello_world/nanokernel/src/built-in.o
+ .debug_abbrev  0x0000000000001321      0x1df lib/built-in.o
+ .debug_abbrev  0x0000000000001500     0x2429 kernel/built-in.o
+ .debug_abbrev  0x0000000000003929      0x1fe misc/built-in.o
+ .debug_abbrev  0x0000000000003b27      0xbd8 arch/built-in.o
+ .debug_abbrev  0x00000000000046ff     0x1b86 ext/built-in.o
+ .debug_abbrev  0x0000000000006285       0xf8 ./arch/arc/core/offsets/offsets.o
+ .debug_abbrev  0x000000000000637d      0x1fa /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-malloc.o)
+ .debug_abbrev  0x0000000000006577      0x2a2 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mallocr.o)
+ .debug_abbrev  0x0000000000006819       0x14 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x000000000000682d       0x14 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memset.o)
+ .debug_abbrev  0x0000000000006841      0x19a /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mlock.o)
+ .debug_abbrev  0x00000000000069db      0x221 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-printf.o)
+ .debug_abbrev  0x0000000000006bfc      0x1fd /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sbrkr.o)
+ .debug_abbrev  0x0000000000006df9       0x14 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-strcmp.o)
+ .debug_abbrev  0x0000000000006e0d      0x3d4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfprintf.o)
+ .debug_abbrev  0x00000000000071e1      0x200 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wsetup.o)
+ .debug_abbrev  0x00000000000073e1      0x2bc /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-dtoa.o)
+ .debug_abbrev  0x000000000000769d      0x2af /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fflush.o)
+ .debug_abbrev  0x000000000000794c      0x36d /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-findfp.o)
+ .debug_abbrev  0x0000000000007cb9      0x27b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-freer.o)
+ .debug_abbrev  0x0000000000007f34      0x1c2 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fwalk.o)
+ .debug_abbrev  0x00000000000080f6      0x180 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000008276      0x2a3 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-locale.o)
+ .debug_abbrev  0x0000000000008519      0x206 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-makebuf.o)
+ .debug_abbrev  0x000000000000871f       0xab /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memchr.o)
+ .debug_abbrev  0x00000000000087ca      0x3c8 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mprec.o)
+ .debug_abbrev  0x0000000000008b92      0x242 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reent.o)
+ .debug_abbrev  0x0000000000008dd4       0x6f /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-s_fpclassify.o)
+ .debug_abbrev  0x0000000000008e43      0x246 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-stdio.o)
+ .debug_abbrev  0x0000000000009089       0x14 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-strlen.o)
+ .debug_abbrev  0x000000000000909d      0x3c6 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfiprintf.o)
+ .debug_abbrev  0x0000000000009463      0x1de /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-writer.o)
+ .debug_abbrev  0x0000000000009641      0x213 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-callocr.o)
+ .debug_abbrev  0x0000000000009854      0x1d9 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-closer.o)
+ .debug_abbrev  0x0000000000009a2d      0x27e /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fclose.o)
+ .debug_abbrev  0x0000000000009cab      0x27e /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fputwc.o)
+ .debug_abbrev  0x0000000000009f29      0x1e8 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fstatr.o)
+ .debug_abbrev  0x000000000000a111      0x252 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fvwrite.o)
+ .debug_abbrev  0x000000000000a363      0x1d9 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-isattyr.o)
+ .debug_abbrev  0x000000000000a53c      0x1e8 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-lseekr.o)
+ .debug_abbrev  0x000000000000a724       0xab /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memmove.o)
+ .debug_abbrev  0x000000000000a7cf      0x1d9 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-readr.o)
+ .debug_abbrev  0x000000000000a9a8      0x260 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reallocr.o)
+ .debug_abbrev  0x000000000000ac08      0x248 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wbuf.o)
+ .debug_abbrev  0x000000000000ae50      0x21c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wcrtomb.o)
+ .debug_abbrev  0x000000000000b06c      0x212 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wctomb_r.o)
+ .debug_abbrev  0x000000000000b27e       0x14 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_mulsi3.o)
+ .debug_abbrev  0x000000000000b292       0x14 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x000000000000b2a6       0x14 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x000000000000b2ba       0x14 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umodsi3.o)
+ .debug_abbrev  0x000000000000b2ce       0x14 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_modsi3.o)
+ .debug_abbrev  0x000000000000b2e2       0x14 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_divmod_tools.o)
+ .debug_abbrev  0x000000000000b2f6       0x14 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_millicodethunk_st.o)
+ .debug_abbrev  0x000000000000b30a       0x14 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_millicodethunk_ld.o)
+ .debug_abbrev  0x000000000000b31e       0x14 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_millicodethunk_ret.o)
+ .debug_abbrev  0x000000000000b332      0x179 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x000000000000b4ab      0x188 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umoddi3.o)
+ .debug_abbrev  0x000000000000b633      0x37e /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(dp-bit.o)
+ .debug_abbrev  0x000000000000b9b1       0x14 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umulsidi3.o)
+ .debug_abbrev  0x000000000000b9c5       0x14 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x000000000000b9d9       0xed /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_lshrdi3.o)
+ .debug_abbrev  0x000000000000bac6       0xfe /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_ashldi3.o)
+ .debug_abbrev  0x000000000000bbc4       0x5b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_clz.o)
+ .debug_abbrev  0x000000000000bc1f      0x35f /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(fp-bit.o)
+
+.debug_line     0x0000000000000000    0x112ac
+ .debug_line    0x0000000000000000     0x14b4 drivers/built-in.o
+ .debug_line    0x00000000000014b4      0x3ac ../Zephyr_dev/hello_world/nanokernel/src/built-in.o
+ .debug_line    0x0000000000001860      0x28f lib/built-in.o
+ .debug_line    0x0000000000001aef     0x3382 kernel/built-in.o
+ .debug_line    0x0000000000004e71      0x1eb misc/built-in.o
+ .debug_line    0x000000000000505c     0x16e5 arch/built-in.o
+ .debug_line    0x0000000000006741     0x28e5 ext/built-in.o
+ .debug_line    0x0000000000009026      0x30c ./arch/arc/core/offsets/offsets.o
+ .debug_line    0x0000000000009332      0x20c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-malloc.o)
+ .debug_line    0x000000000000953e      0x40f /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mallocr.o)
+ .debug_line    0x000000000000994d       0x8c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memcpy.o)
+ .debug_line    0x00000000000099d9       0x8e /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memset.o)
+ .debug_line    0x0000000000009a67      0x185 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mlock.o)
+ .debug_line    0x0000000000009bec      0x21b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-printf.o)
+ .debug_line    0x0000000000009e07      0x20a /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sbrkr.o)
+ .debug_line    0x000000000000a011       0x90 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-strcmp.o)
+ .debug_line    0x000000000000a0a1      0xa3e /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfprintf.o)
+ .debug_line    0x000000000000aadf      0x266 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wsetup.o)
+ .debug_line    0x000000000000ad45      0x759 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-dtoa.o)
+ .debug_line    0x000000000000b49e      0x2b4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fflush.o)
+ .debug_line    0x000000000000b752      0x2ea /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-findfp.o)
+ .debug_line    0x000000000000ba3c      0x2fb /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-freer.o)
+ .debug_line    0x000000000000bd37      0x24c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fwalk.o)
+ .debug_line    0x000000000000bf83      0x173 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-impure.o)
+ .debug_line    0x000000000000c0f6      0x248 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-locale.o)
+ .debug_line    0x000000000000c33e      0x28a /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-makebuf.o)
+ .debug_line    0x000000000000c5c8      0x1a0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memchr.o)
+ .debug_line    0x000000000000c768      0x684 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mprec.o)
+ .debug_line    0x000000000000cdec      0x23a /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reent.o)
+ .debug_line    0x000000000000d026      0x18e /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-s_fpclassify.o)
+ .debug_line    0x000000000000d1b4      0x249 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-stdio.o)
+ .debug_line    0x000000000000d3fd       0x90 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-strlen.o)
+ .debug_line    0x000000000000d48d      0x74f /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfiprintf.o)
+ .debug_line    0x000000000000dbdc      0x218 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-writer.o)
+ .debug_line    0x000000000000ddf4      0x1bb /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-callocr.o)
+ .debug_line    0x000000000000dfaf      0x217 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-closer.o)
+ .debug_line    0x000000000000e1c6      0x24f /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fclose.o)
+ .debug_line    0x000000000000e415      0x286 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fputwc.o)
+ .debug_line    0x000000000000e69b      0x221 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fstatr.o)
+ .debug_line    0x000000000000e8bc      0x353 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fvwrite.o)
+ .debug_line    0x000000000000ec0f      0x218 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-isattyr.o)
+ .debug_line    0x000000000000ee27      0x223 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-lseekr.o)
+ .debug_line    0x000000000000f04a      0x1a4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memmove.o)
+ .debug_line    0x000000000000f1ee      0x217 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-readr.o)
+ .debug_line    0x000000000000f405      0x2e1 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reallocr.o)
+ .debug_line    0x000000000000f6e6      0x27e /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wbuf.o)
+ .debug_line    0x000000000000f964      0x22d /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wcrtomb.o)
+ .debug_line    0x000000000000fb91      0x234 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wctomb_r.o)
+ .debug_line    0x000000000000fdc5       0xb7 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_mulsi3.o)
+ .debug_line    0x000000000000fe7c       0xab /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_udivsi3.o)
+ .debug_line    0x000000000000ff27       0xb2 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_divsi3.o)
+ .debug_line    0x000000000000ffd9       0xae /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umodsi3.o)
+ .debug_line    0x0000000000010087       0xb3 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_modsi3.o)
+ .debug_line    0x000000000001013a       0xd5 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_divmod_tools.o)
+ .debug_line    0x000000000001020f       0xb8 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_millicodethunk_st.o)
+ .debug_line    0x00000000000102c7       0xb8 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_millicodethunk_ld.o)
+ .debug_line    0x000000000001037f       0xba /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_millicodethunk_ret.o)
+ .debug_line    0x0000000000010439      0x151 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_udivdi3.o)
+ .debug_line    0x000000000001058a      0x159 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umoddi3.o)
+ .debug_line    0x00000000000106e3      0x46c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(dp-bit.o)
+ .debug_line    0x0000000000010b4f       0xba /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umulsidi3.o)
+ .debug_line    0x0000000000010c09       0xb6 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_clzsi2.o)
+ .debug_line    0x0000000000010cbf       0xbf /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_lshrdi3.o)
+ .debug_line    0x0000000000010d7e       0xbd /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_ashldi3.o)
+ .debug_line    0x0000000000010e3b       0x9b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_clz.o)
+ .debug_line    0x0000000000010ed6      0x3d6 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(fp-bit.o)
+
+.debug_frame    0x0000000000000000     0x6758
+ .debug_frame   0x0000000000000000      0x9b0 drivers/built-in.o
+ .debug_frame   0x00000000000009b0       0x64 ../Zephyr_dev/hello_world/nanokernel/src/built-in.o
+ .debug_frame   0x0000000000000a14      0x2a4 lib/built-in.o
+ .debug_frame   0x0000000000000cb8     0x183c kernel/built-in.o
+ .debug_frame   0x00000000000024f4      0x148 misc/built-in.o
+ .debug_frame   0x000000000000263c      0x31c arch/built-in.o
+ .debug_frame   0x0000000000002958     0x1998 ext/built-in.o
+ .debug_frame   0x00000000000042f0       0x38 ./arch/arc/core/offsets/offsets.o
+ .debug_frame   0x0000000000004328       0x30 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-malloc.o)
+ .debug_frame   0x0000000000004358       0x7c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00000000000043d4       0x30 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000004404       0x70 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-printf.o)
+ .debug_frame   0x0000000000004474       0x5c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000000000044d0      0x114 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfprintf.o)
+ .debug_frame   0x00000000000045e4       0x54 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wsetup.o)
+ .debug_frame   0x0000000000004638      0x124 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-dtoa.o)
+ .debug_frame   0x000000000000475c       0xcc /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fflush.o)
+ .debug_frame   0x0000000000004828      0x1a0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-findfp.o)
+ .debug_frame   0x00000000000049c8       0xfc /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-freer.o)
+ .debug_frame   0x0000000000004ac4       0xe0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fwalk.o)
+ .debug_frame   0x0000000000004ba4       0xcc /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-locale.o)
+ .debug_frame   0x0000000000004c70       0x70 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-makebuf.o)
+ .debug_frame   0x0000000000004ce0       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memchr.o)
+ .debug_frame   0x0000000000004d00      0x4dc /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mprec.o)
+ .debug_frame   0x00000000000051dc       0xc4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reent.o)
+ .debug_frame   0x00000000000052a0       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-s_fpclassify.o)
+ .debug_frame   0x00000000000052c0      0x11c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-stdio.o)
+ .debug_frame   0x00000000000053dc      0x18c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfiprintf.o)
+ .debug_frame   0x0000000000005568       0x5c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-writer.o)
+ .debug_frame   0x00000000000055c4       0x5c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-callocr.o)
+ .debug_frame   0x0000000000005620       0x5c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-closer.o)
+ .debug_frame   0x000000000000567c       0x94 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fclose.o)
+ .debug_frame   0x0000000000005710       0xd8 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fputwc.o)
+ .debug_frame   0x00000000000057e8       0x5c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fstatr.o)
+ .debug_frame   0x0000000000005844       0xa0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fvwrite.o)
+ .debug_frame   0x00000000000058e4       0x5c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-isattyr.o)
+ .debug_frame   0x0000000000005940       0x5c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-lseekr.o)
+ .debug_frame   0x000000000000599c       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memmove.o)
+ .debug_frame   0x00000000000059bc       0x5c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-readr.o)
+ .debug_frame   0x0000000000005a18       0xd4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reallocr.o)
+ .debug_frame   0x0000000000005aec       0x6c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wbuf.o)
+ .debug_frame   0x0000000000005b58       0xc0 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wcrtomb.o)
+ .debug_frame   0x0000000000005c18       0x68 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wctomb_r.o)
+ .debug_frame   0x0000000000005c80       0x94 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_udivdi3.o)
+ .debug_frame   0x0000000000005d14       0x9c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umoddi3.o)
+ .debug_frame   0x0000000000005db0      0x540 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(dp-bit.o)
+ .debug_frame   0x00000000000062f0       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_lshrdi3.o)
+ .debug_frame   0x0000000000006310       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_ashldi3.o)
+ .debug_frame   0x0000000000006330      0x428 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(fp-bit.o)
+
+.debug_str      0x0000000000000000     0x795d
+ .debug_str     0x0000000000000000     0x1a99 drivers/built-in.o
+                                       0x2e65 (size before relaxing)
+ .debug_str     0x0000000000001a99      0x5e8 ../Zephyr_dev/hello_world/nanokernel/src/built-in.o
+                                        0x89a (size before relaxing)
+ .debug_str     0x0000000000002081      0x1a3 lib/built-in.o
+                                        0x3b1 (size before relaxing)
+ .debug_str     0x0000000000002224     0x112c kernel/built-in.o
+                                       0x457d (size before relaxing)
+ .debug_str     0x0000000000003350      0x118 misc/built-in.o
+                                        0x348 (size before relaxing)
+ .debug_str     0x0000000000003468      0x670 arch/built-in.o
+                                       0x1eca (size before relaxing)
+ .debug_str     0x0000000000003ad8     0x1f99 ext/built-in.o
+                                       0x659a (size before relaxing)
+ .debug_str     0x0000000000005a71       0xa8 ./arch/arc/core/offsets/offsets.o
+                                        0x382 (size before relaxing)
+ .debug_str     0x0000000000005b19      0x464 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-malloc.o)
+                                        0x597 (size before relaxing)
+ .debug_str     0x0000000000005f7d      0x216 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mallocr.o)
+                                        0x792 (size before relaxing)
+ .debug_str     0x0000000000006193       0x41 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mlock.o)
+                                        0x58c (size before relaxing)
+ .debug_str     0x00000000000061d4       0xc3 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-printf.o)
+                                        0x5af (size before relaxing)
+ .debug_str     0x0000000000006297       0xb1 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sbrkr.o)
+                                        0x579 (size before relaxing)
+ .debug_str     0x0000000000006348      0x354 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfprintf.o)
+                                        0x960 (size before relaxing)
+ .debug_str     0x000000000000669c       0x39 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wsetup.o)
+                                        0x59a (size before relaxing)
+ .debug_str     0x00000000000066d5      0x143 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-dtoa.o)
+                                        0x6d5 (size before relaxing)
+ .debug_str     0x0000000000006818       0x77 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fflush.o)
+                                        0x5db (size before relaxing)
+ .debug_str     0x000000000000688f      0x10f /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-findfp.o)
+                                        0x6aa (size before relaxing)
+ .debug_str     0x000000000000699e       0x34 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-freer.o)
+                                        0x6dc (size before relaxing)
+ .debug_str     0x00000000000069d2       0x3a /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fwalk.o)
+                                        0x588 (size before relaxing)
+ .debug_str     0x0000000000006a0c       0x38 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-impure.o)
+                                        0x583 (size before relaxing)
+ .debug_str     0x0000000000006a44      0x18f /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-locale.o)
+                                        0x7e0 (size before relaxing)
+ .debug_str     0x0000000000006bd3       0x4b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-makebuf.o)
+                                        0x685 (size before relaxing)
+ .debug_str     0x0000000000006c1e       0xbd /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memchr.o)
+                                        0x1cc (size before relaxing)
+ .debug_str     0x0000000000006cdb       0x97 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mprec.o)
+                                        0x68f (size before relaxing)
+ .debug_str     0x0000000000006d72       0x57 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reent.o)
+                                        0x5a2 (size before relaxing)
+ .debug_str     0x0000000000006dc9       0xb5 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-s_fpclassify.o)
+                                        0x1dc (size before relaxing)
+ .debug_str     0x0000000000006e7e       0x8b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-stdio.o)
+                                        0x5de (size before relaxing)
+ .debug_str     0x0000000000006f09       0x36 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfiprintf.o)
+                                        0x752 (size before relaxing)
+ .debug_str     0x0000000000006f3f       0x2c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-writer.o)
+                                        0x57d (size before relaxing)
+ .debug_str     0x0000000000006f6b        0xf /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-callocr.o)
+                                        0x5bc (size before relaxing)
+ .debug_str     0x0000000000006f7a       0x2c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-closer.o)
+                                        0x56d (size before relaxing)
+ .debug_str     0x0000000000006fa6       0x3d /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fclose.o)
+                                        0x5c8 (size before relaxing)
+ .debug_str     0x0000000000006fe3       0x4a /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fputwc.o)
+                                        0x5e3 (size before relaxing)
+ .debug_str     0x000000000000702d       0x32 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fstatr.o)
+                                        0x659 (size before relaxing)
+ .debug_str     0x000000000000705f       0x5e /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fvwrite.o)
+                                        0x615 (size before relaxing)
+ .debug_str     0x00000000000070bd       0x2d /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-isattyr.o)
+                                        0x570 (size before relaxing)
+ .debug_str     0x00000000000070ea       0x2c /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-lseekr.o)
+                                        0x57a (size before relaxing)
+ .debug_str     0x0000000000007116       0x4f /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memmove.o)
+                                        0x1e5 (size before relaxing)
+ .debug_str     0x0000000000007165       0x2b /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-readr.o)
+                                        0x57a (size before relaxing)
+ .debug_str     0x0000000000007190       0x49 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reallocr.o)
+                                        0x664 (size before relaxing)
+ .debug_str     0x00000000000071d9       0x32 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wbuf.o)
+                                        0x59f (size before relaxing)
+ .debug_str     0x000000000000720b       0x46 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wcrtomb.o)
+                                        0x5ba (size before relaxing)
+ .debug_str     0x0000000000007251       0x4f /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wctomb_r.o)
+                                        0x5c3 (size before relaxing)
+ .debug_str     0x00000000000072a0      0x1c7 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_udivdi3.o)
+                                        0x25f (size before relaxing)
+ .debug_str     0x0000000000007467        0xa /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umoddi3.o)
+                                        0x25f (size before relaxing)
+ .debug_str     0x0000000000007471      0x3d4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(dp-bit.o)
+                                        0x4b3 (size before relaxing)
+ .debug_str     0x0000000000007845       0x23 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_lshrdi3.o)
+                                        0x1e3 (size before relaxing)
+ .debug_str     0x0000000000007868        0xa /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_ashldi3.o)
+                                        0x1e3 (size before relaxing)
+ .debug_str     0x0000000000000000      0x1a6 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_clz.o)
+ .debug_str     0x0000000000007872       0xeb /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(fp-bit.o)
+                                        0x478 (size before relaxing)
+
+.debug_loc      0x0000000000000000    0x190ed
+ .debug_loc     0x0000000000000000     0x179c drivers/built-in.o
+ .debug_loc     0x000000000000179c       0x3c ../Zephyr_dev/hello_world/nanokernel/src/built-in.o
+ .debug_loc     0x00000000000017d8      0x25e lib/built-in.o
+ .debug_loc     0x0000000000001a36     0x34ee kernel/built-in.o
+ .debug_loc     0x0000000000004f24      0x3b9 misc/built-in.o
+ .debug_loc     0x00000000000052dd      0x347 arch/built-in.o
+ .debug_loc     0x0000000000005624     0x3062 ext/built-in.o
+ .debug_loc     0x0000000000008686       0x58 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-malloc.o)
+ .debug_loc     0x00000000000086de      0xbd2 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mallocr.o)
+ .debug_loc     0x00000000000092b0       0xef /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-printf.o)
+ .debug_loc     0x000000000000939f       0x66 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-sbrkr.o)
+ .debug_loc     0x0000000000009405     0x22c4 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfprintf.o)
+ .debug_loc     0x000000000000b6c9       0x81 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wsetup.o)
+ .debug_loc     0x000000000000b74a     0x25bd /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-dtoa.o)
+ .debug_loc     0x000000000000dd07      0x282 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fflush.o)
+ .debug_loc     0x000000000000df89      0x298 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-findfp.o)
+ .debug_loc     0x000000000000e221      0x530 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-freer.o)
+ .debug_loc     0x000000000000e751      0x1fb /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fwalk.o)
+ .debug_loc     0x000000000000e94c      0x100 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-locale.o)
+ .debug_loc     0x000000000000ea4c      0x128 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-makebuf.o)
+ .debug_loc     0x000000000000eb74      0x1c7 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memchr.o)
+ .debug_loc     0x000000000000ed3b     0x1c28 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mprec.o)
+ .debug_loc     0x0000000000010963      0x133 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reent.o)
+ .debug_loc     0x0000000000010a96       0x84 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-s_fpclassify.o)
+ .debug_loc     0x0000000000010b1a      0x324 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-stdio.o)
+ .debug_loc     0x0000000000010e3e     0x19a5 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfiprintf.o)
+ .debug_loc     0x00000000000127e3       0xbe /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-writer.o)
+ .debug_loc     0x00000000000128a1      0x2a8 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-callocr.o)
+ .debug_loc     0x0000000000012b49       0x66 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-closer.o)
+ .debug_loc     0x0000000000012baf      0x142 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fclose.o)
+ .debug_loc     0x0000000000012cf1      0x20a /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fputwc.o)
+ .debug_loc     0x0000000000012efb       0x92 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fstatr.o)
+ .debug_loc     0x0000000000012f8d      0x5b7 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fvwrite.o)
+ .debug_loc     0x0000000000013544       0x66 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-isattyr.o)
+ .debug_loc     0x00000000000135aa       0xbe /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-lseekr.o)
+ .debug_loc     0x0000000000013668      0x335 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-memmove.o)
+ .debug_loc     0x000000000001399d       0xbe /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-readr.o)
+ .debug_loc     0x0000000000013a5b      0xeea /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reallocr.o)
+ .debug_loc     0x0000000000014945      0x123 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wbuf.o)
+ .debug_loc     0x0000000000014a68      0x243 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wcrtomb.o)
+ .debug_loc     0x0000000000014cab      0x10e /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wctomb_r.o)
+ .debug_loc     0x0000000000014db9      0xe25 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_udivdi3.o)
+ .debug_loc     0x0000000000015bde      0xc22 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umoddi3.o)
+ .debug_loc     0x0000000000016800     0x1523 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(dp-bit.o)
+ .debug_loc     0x0000000000017d23       0xd7 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_lshrdi3.o)
+ .debug_loc     0x0000000000017dfa       0xe1 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_ashldi3.o)
+ .debug_loc     0x0000000000017edb     0x1212 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(fp-bit.o)
+
+.debug_ranges   0x0000000000000000     0x1cc0
+ .debug_ranges  0x0000000000000000      0x270 drivers/built-in.o
+ .debug_ranges  0x0000000000000270       0x10 ../Zephyr_dev/hello_world/nanokernel/src/built-in.o
+ .debug_ranges  0x0000000000000280       0x80 lib/built-in.o
+ .debug_ranges  0x0000000000000300      0x828 kernel/built-in.o
+ .debug_ranges  0x0000000000000b28       0x88 misc/built-in.o
+ .debug_ranges  0x0000000000000bb0      0x140 arch/built-in.o
+ .debug_ranges  0x0000000000000cf0      0x568 ext/built-in.o
+ .debug_ranges  0x0000000000001258       0x10 ./arch/arc/core/offsets/offsets.o
+ .debug_ranges  0x0000000000001268       0x38 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mallocr.o)
+ .debug_ranges  0x00000000000012a0      0x148 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfprintf.o)
+ .debug_ranges  0x00000000000013e8       0x18 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-wsetup.o)
+ .debug_ranges  0x0000000000001400       0x38 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fflush.o)
+ .debug_ranges  0x0000000000001438       0x48 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-findfp.o)
+ .debug_ranges  0x0000000000001480       0x38 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-mprec.o)
+ .debug_ranges  0x00000000000014b8      0x160 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-vfiprintf.o)
+ .debug_ranges  0x0000000000001618       0x48 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-callocr.o)
+ .debug_ranges  0x0000000000001660       0x20 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-fvwrite.o)
+ .debug_ranges  0x0000000000001680      0x110 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/arc-poky-elf/lib/em/libc.a(lib_a-reallocr.o)
+ .debug_ranges  0x0000000000001790      0x168 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_udivdi3.o)
+ .debug_ranges  0x00000000000018f8      0x180 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_umoddi3.o)
+ .debug_ranges  0x0000000000001a78      0x128 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(dp-bit.o)
+ .debug_ranges  0x0000000000001ba0       0x18 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(_lshrdi3.o)
+ .debug_ranges  0x0000000000001bb8      0x108 /opt/zephyr-sdk//sysroots/arc-poky-elf/usr/lib/arc-poky-elf/4.8.5/em/libgcc.a(fp-bit.o)

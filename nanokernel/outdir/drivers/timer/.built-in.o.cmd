@@ -1,0 +1,1 @@
+cmd_drivers/timer/built-in.o :=  /opt/zephyr-sdk//sysroots/i686-pokysdk-linux/usr/bin/arc-poky-elf/arc-poky-elf-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o drivers/timer/built-in.o drivers/timer/arcv2_timer0.o drivers/timer/sys_clock_init.o 

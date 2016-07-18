@@ -1,0 +1,1 @@
+cmd_drivers/gpio/built-in.o :=  /opt/zephyr-sdk//sysroots/i686-pokysdk-linux/usr/bin/arc-poky-elf/arc-poky-elf-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o drivers/gpio/built-in.o drivers/gpio/gpio_api_compat.o drivers/gpio/gpio_qmsi_ss.o 

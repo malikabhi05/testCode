@@ -1,0 +1,1 @@
+cmd_ext/lib/upm/built-in.o :=  /opt/zephyr-sdk//sysroots/i686-pokysdk-linux/usr/bin/arc-poky-elf/arc-poky-elf-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o ext/lib/upm/built-in.o ext/lib/upm/src/ttp223/ttp223.o ext/lib/upm/include/upm_utilities.o ext/lib/upm/src/tsl2561/tsl2561.o 

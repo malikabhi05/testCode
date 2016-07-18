@@ -1,0 +1,1 @@
+cmd_ext/hal/qmsi/built-in.o :=  /opt/zephyr-sdk//sysroots/i686-pokysdk-linux/usr/bin/arc-poky-elf/arc-poky-elf-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o ext/hal/qmsi/built-in.o ext/hal/qmsi/drivers/clk.o ext/hal/qmsi/drivers/sensor/ss_clk.o ext/hal/qmsi/drivers/sensor/qm_ss_gpio.o ext/hal/qmsi/drivers/sensor/qm_ss_i2c.o 

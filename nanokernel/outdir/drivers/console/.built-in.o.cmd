@@ -1,0 +1,1 @@
+cmd_drivers/console/built-in.o :=  /opt/zephyr-sdk//sysroots/i686-pokysdk-linux/usr/bin/arc-poky-elf/arc-poky-elf-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o drivers/console/built-in.o drivers/console/ipm_console_sender.o 

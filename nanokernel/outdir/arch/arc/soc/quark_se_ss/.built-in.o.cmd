@@ -1,0 +1,1 @@
+cmd_arch/arc/soc/quark_se_ss/built-in.o :=  /opt/zephyr-sdk//sysroots/i686-pokysdk-linux/usr/bin/arc-poky-elf/arc-poky-elf-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o arch/arc/soc/quark_se_ss/built-in.o arch/arc/soc/quark_se_ss/soc.o arch/arc/soc/quark_se_ss/soc_config.o 

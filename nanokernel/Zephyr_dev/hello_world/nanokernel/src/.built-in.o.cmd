@@ -1,0 +1,1 @@
+cmd_../Zephyr_dev/hello_world/nanokernel/src/built-in.o :=  /opt/zephyr-sdk//sysroots/i686-pokysdk-linux/usr/bin/arc-poky-elf/arc-poky-elf-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o ../Zephyr_dev/hello_world/nanokernel/src/built-in.o ../Zephyr_dev/hello_world/nanokernel/src/main.o 

@@ -1,0 +1,1 @@
+cmd_ext/lib/built-in.o :=  /opt/zephyr-sdk//sysroots/i686-pokysdk-linux/usr/bin/arc-poky-elf/arc-poky-elf-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o ext/lib/built-in.o ext/lib/crypto/built-in.o ext/lib/mraa/built-in.o ext/lib/upm/built-in.o 
