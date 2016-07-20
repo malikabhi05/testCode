@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2015 Intel Corporation
+ * Copyright (c) 2012-2014 Wind River Systems, Inc.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,102 +14,16 @@
  * limitations under the License.
  */
 
-/**
- * @file Sample app to utilize GPIO on Arduino 101 and Arduino Due.
- *
- * Arduino 101 - x86
- * --------------------
- *
- * On x86 side of Arduino 101:
- * 1. GPIO_16 is on IO8
- * 2. GPIO_19 is on IO4
- *
- * The gpio_dw driver is being used.
- *
- * This sample app toggles GPIO_16/IO8. It also waits for
- * GPIO_19/IO4 to go high and display a message.
- *
- * If IO4 and IO8 are connected together, the GPIO should
- * triggers every 2 seconds. And you should see this repeatedly
- * on console:
- * "
- *     Toggling GPIO_16
- *     Toggling GPIO_16
- *     GPIO_19 triggered
- * "
- *
- * Arduino 101 - Sensor Subsystem
- * ------------------------------
- *
- * On Sensor Subsystem of Arduino 101:
- * 1. GPIO_SS[ 2] is on A00
- * 2. GPIO_SS[ 3] is on A01
- * 3. GPIO_SS[ 4] is on A02
- * 4. GPIO_SS[ 5] is on A03
- * 5. GPIO_SS[10] is on IO3
- * 6. GPIO_SS[11] is on IO5
- * 7. GPIO_SS[12] is on IO6
- * 8. GPIO_SS[13] is on IO9
- *
- * There are two 8-bit GPIO controllers on the sensor subsystem.
- * GPIO_SS[0-7] are on GPIO_0 while GPIO_SS[8-15] are on GPIO_1.
- *
- * The gpio_dw driver is being used. The first GPIO controller
- * is mapped to device "GPIO_0", and the second GPIO controller
- * is mapped to device "GPIO_1".
- *
- * This sample app toggles GPIO_SS_2/A0. It also waits for
- * GPIO_SS_3/A1 to go high and display a message.
- *
- * If A0 and A1 are connected together, the GPIO should
- * triggers every 2 seconds. And you should see this repeatedly
- * on console (via ipm_console0):
- * "
- *     Toggling GPIO_SS_2
- *     Toggling GPIO_SS_2
- *     GPIO_SS_3 triggered
- * "
- *
- * Arduino Due
- * -----------
- *
- * On Arduino Due:
- * 1. IO_2 is PB25
- * 2. IO_13 is PB27 (linked to the LED marked "L")
- *
- * The gpio_atmel_sam3 driver is being used.
- *
- * This sample app toggles IO_2. It also waits for
- * IO_13 to go high and display a message.
- *
- * If IO_2 and IO_13 are connected together, the GPIO should
- * triggers every 2 seconds. And you should see this repeatedly
- * on console:
- * "
- *     Toggling GPIO_25
- *     Toggling GPIO_25
- *     GPIO_27 triggered
- * "
- *
- * Quark D2000 CRB
- * ---------------
- *
- * In order to this sample app work with Quark D2000 CRB you should
- * use a "jumper cable" connecting the pins as described below:
- * Header J5 pin 9
- * Header J6 pin 7
- *
- * If the app runs successfully you should see this repeatedly on
- * console:
- * "
- * Toggling GPIO_8
- * Toggling GPIO_8
- * GPIO_24 triggered
- * "
- */
-
 #include <zephyr.h>
+#include <ttp223.h>
+#include <tsl2561.h>
+#include <malloc.h>
+#include <pinmux.h>
+#include <gpio.h>
+#include <sys_clock.h>
+#include <misc/util.h>
 
+#define SLEEPTICKS	SECONDS(1)
 #if defined(CONFIG_STDOUT_CONSOLE)
 #include <stdio.h>
 #define PRINT           printf
@@ -118,47 +32,88 @@
 #define PRINT           printk
 #endif
 
-#include <device.h>
-#include <gpio.h>
-#include <sys_clock.h>
+typedef struct _some_struct* some_struct;
 
-#define SLEEPTICKS	SECONDS(1)
+struct _some_struct {
+	int	a_num;
+	int	b_num;
+	int	c_num;
+};
 
-#if defined(CONFIG_SOC_QUARK_SE_SS)
-#define GPIO_OUT_PIN	2
-#define GPIO_INT_PIN	3
-#define GPIO_NAME	"GPIO_SS_"
-#elif defined(CONFIG_SOC_QUARK_SE)
-#define GPIO_OUT_PIN	16
-#define GPIO_INT_PIN	19
-#define GPIO_NAME	"GPIO_"
-#elif defined(CONFIG_SOC_ATMEL_SAM3)
-#define GPIO_OUT_PIN	25
-#define GPIO_INT_PIN	27
-#define GPIO_NAME	"GPIO_"
-#elif defined(CONFIG_SOC_QUARK_D2000)
-#define GPIO_OUT_PIN	8
-#define GPIO_INT_PIN	24
-#define GPIO_NAME	"GPIO_"
-#endif
+/*
+ * @file
+ * @brief Hello World demo
+ * Nanokernel version of hello world demo
+ */
 
-#if defined(CONFIG_GPIO_DW_0)
-#define GPIO_DRV_NAME CONFIG_GPIO_DW_0_NAME
-#elif defined(CONFIG_GPIO_QMSI_0)
-#define GPIO_DRV_NAME CONFIG_GPIO_QMSI_0_NAME
-#elif defined(CONFIG_GPIO_ATMEL_SAM3)
-#define GPIO_DRV_NAME CONFIG_GPIO_ATMEL_SAM3_PORTB_DEV_NAME
-#else
-#error "Unsupported GPIO driver"
-#endif
-
-/*void gpio_callback(struct device *port, uint32_t pin)
-{
-	PRINT(GPIO_NAME "%d triggered\n", pin);
-}
-*/
 
 void main(void)
 {
+	struct nano_timer timer;
+#if defined(CONFIG_GPIO_DW_0)
+	printf("dw\n");
+#elif defined(CONFIG_GPIO_QMSI_0)
+	printf("qmsi\n");
+#endif
 	PRINT("Hello World from nanokernel!\n");
+	void *timer_data[1];
+	nano_timer_init(&timer, timer_data);
+	//printf("malloced var: %d\n", a);
+	mraa_init();
+	some_struct x =(some_struct) malloc(sizeof(struct _some_struct));
+	printf("a %d b %d c %d\n",x->a_num, x->b_num, x->c_num);
+	x->a_num = 1;
+	x->b_num = 2;
+	x->c_num = 3;
+	printf("a %d b %d c %d\n",x->a_num, x->b_num, x->c_num);
+	void* dev = upm_ttp223_init(2);
+	//void* dev2 = upm_ttp223_init(4);
+	//upm_mem_debug();
+	PRINT("Hello World from nanokernel-after!\n");
+	//uint8_t val = 0;
+	upm_ttp223_close(dev);
+
+///////////////////////////////////////////////////
+
+	struct device* pinmux_dev = device_get_binding(CONFIG_PINMUX_DEV_NAME);
+	if (pinmux_dev == NULL) {
+        	printf("Failed to get binding for pinmux\n");
+    	}
+	pinmux_pin_set(pinmux_dev, 9, PINMUX_FUNC_A);
+
+	struct device *gpio_dev;
+	gpio_dev = device_get_binding(CONFIG_GPIO_QMSI_SS_0_NAME);
+	if (!gpio_dev) {
+		printf("Cannot find %s!\n", CONFIG_GPIO_QMSI_SS_0_NAME);
+	}
+	int ret = gpio_pin_configure(gpio_dev, 1, (GPIO_DIR_OUT));
+	if (ret) {
+		printf("Error configuring pin 1\n");
+	}
+	int toggle = 0;
+	while(1){
+		if(toggle == 0)
+			toggle = 1;
+		else
+			toggle = 0;
+		printf("writing to pin: %d\n", toggle);
+		ret = gpio_pin_write(gpio_dev, 1, toggle);
+		if (ret) {
+			printf("Error setting pin \n");
+		}
+		nano_timer_start(&timer, SLEEPTICKS);
+		nano_timer_test(&timer, TICKS_UNLIMITED);
+	}
+///////////////////////////////////////////////////
+	//while(1){
+#if 0
+		printf("inside the loop\n");
+		upm_delay_ms(500);
+		//upm_mem_debug();
+		//upm_ttp223_read(dev, &val, 1);
+		printf("the value returned from the device: %d\n", val);
+		upm_delay_ms(500);
+	//}
+#endif
 }
+
